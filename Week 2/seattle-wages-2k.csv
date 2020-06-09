@@ -1,0 +1,2001 @@
+Department,Job_Title,Hourly_Rate
+Seattle Public Utilities,"Civil Engrng Spec,Assoc",38.67
+Seattle Dept of Transportation,Bridge Elecl Maint Supv,46.15
+City Light,Plng&Dev Spec II,40.93
+Seattle Center,Stage Tech *,30.42
+Mayor's Office,Executive2,67.5
+Office for Civil Rights,Executive2,77.12
+Police Department,Pol Comms Dispatcher II,31.86
+City Light,Elctn-Con,44.92
+Seattle Dept of Transportation,"StratAdvsr3,Fin,Bud,&Actg",65.57
+Seattle Information Technology,"Civil Engrng Spec,Asst II",33.87
+Fire Department,Fireftr-Ap Drvr-90.46,42.9
+Seattle Dept of Const and Insp,Code Compliance Anlyst,37.94
+Fire Department,"Publc Relations Spec,Sr",37.94
+Fire Department,Fireftr-90.46 Hrs,33.57
+City Budget Office,"StratAdvsr1,Exempt",44.95
+Seattle Public Utilities,Util Act Rep Trne,23.63
+Seattle Dept of Transportation,Muni Government Intern *,19.76
+Police Department,Pol Ofcr-Patrl,48.86
+Office for Civil Rights,"StratAdvsr1,General Govt",41.81
+Fire Department,Fireftr-90.46 Hrs,31.78
+Parks Department,Util Laborer,24.5
+Fire Department,Admin Spec I-BU *,21.99
+City Light,Rights-Of-Way Maint Wkr,29.88
+Parks Department,Pool Maint Wkr *,25.72
+Fire Department,Fire Capt-90.46 Hrs,52.68
+Fire Department,Executive4,102.08
+City Light,Pwr Structs Mechanic CC,44.92
+Parks Department,"Manager1,General Govt",52.43
+Parks Department,Pool Maint Wkr,25.72
+Seattle Public Utilities,Util Act Rep Supv II,39.4
+Seattle Dept of Const and Insp,Housing/Zoning Inspector,35.68
+Police Department,Pol Ofcr,38.6
+Parks Department,Lifeguard *,16.47
+Dept of Finance & Admn Svc,"Warehouser,Sr-BU",27.73
+Seattle Public Utilities,"Civil Engrng Spec,Sr",48.84
+City Light,"Pwr Anlyst,Sr",48.98
+Fire Department,Fireftr-90.46 Hrs,37.88
+Parks Department,Maint Laborer,25.39
+Seattle Dept of Transportation,Admin Staff Asst,31.93
+Seattle Public Utilities,"Accountant,Sr",38.56
+Seattle Center,Usher *,15.68
+Police Department,Pol Ofcr- Student,35.56
+Planning and Community Develop,Muni Government Intern *,19.76
+City Light,Marketing Dev Coord,43.38
+Seattle Center,Stage Tech *,30.42
+City Light,Lnwkr,46.27
+Office of Economic Development,Admin Spec I-BU,22.77
+Human Services,"Manager3,Exempt",64.31
+Seattle Center,Stage Tech *,30.42
+Seattle Dept of Const and Insp,Permit Spec I,33.83
+Police Department,Pol Ofcr-Patrl,49.29
+Police Department,Pol Comms Dispatcher I,30.65
+Dept of Finance & Admn Svc,"Cust Svc Rep,Sr",27.79
+Police Department,Pol Ofcr-Detective-Homicide,48.63
+Seattle Information Technology,Info Technol Prof C-BU *,40.0
+Seattle Dept of Transportation,Signal Elctn CC,50.3
+City Light,Enrgy Plng Anlyst,37.85
+Seattle Public Utilities,"Wtr Pipe Wkr,Sr",35.14
+Parks Department,Elctn,40.72
+Seattle Dept of Const and Insp,Admin Spec II-BU,25.39
+Legislative-City Council,Legislative Asst,38.41
+Parks Department,Golf Course Tech,26.45
+City Light,Lnwkr,46.27
+Parks Department,Rec Attendant,17.12
+Parks Department,Lifeguard *,16.47
+Human Services,Admin Spec II-BU,23.63
+Neighborhoods Department,Neighb District Coord,40.93
+Seattle Center,Laborer *,21.6
+Parks Department,Rec Attendant,15.96
+Fire Department,Fireftr-90.46 Hrs,35.36
+Seattle Public Utilities,"StratAdvsr2,General Govt",56.13
+Parks Department,Maint Laborer,25.39
+Dept of Finance & Admn Svc,"Cust Svc Rep,Sr",28.83
+Parks Department,Rec Prgm Coord,36.58
+Seattle Public Utilities,StratAdvsr1 *,52.26
+Seattle Center,Actg Tech II-BU,25.39
+Police Department,Pol Ofcr-Patrl,44.95
+City Light,Exec Asst,43.38
+City Light,Meter Reader,26.18
+Parks Department,Rec Leader,28.14
+Fire Department,Fireftr-80 Hrs,42.82
+Seattle Dept of Transportation,Constr&Maint Equip Op,30.52
+Police Department,Pol Ofcr- Student,35.56
+Seattle Public Utilities,Wtr Pipe Wkr-WDM I,33.07
+Seattle Dept of Const and Insp,Permit Spec II,35.16
+City Light,Meter Elctn Aprn,42.67
+City Budget Office,"StratAdvsr2,Exempt",59.41
+Seattle Information Technology,Info Technol Systs Anlyst,41.77
+Parks Department,Lifeguard *,16.47
+Seattle Information Technology,"Mgmt Systs Anlyst,Sr",46.8
+Seattle Information Technology,Info Technol Prof B-BU,52.4
+Seattle Information Technology,Info Technol Prof B-BU,56.05
+Seattle Dept of Const and Insp,Admin Spec III-BU,28.51
+Police Department,Pol Comms Dispatcher II,35.66
+Police Department,Pol Ofcr-Patrl,44.95
+Dept of Education & Early Lrng,"StratAdvsr2,Exempt",50.5
+Human Services,Prgm Intake Rep,30.21
+Police Department,Parking Enf Ofcr,29.89
+Human Services,Plng&Dev Spec II,39.4
+Seattle Dept of Transportation,"Civil Engr,Assoc",40.88
+Seattle Dept of Transportation,"Gardener,Sr",29.58
+Seattle Dept of Const and Insp,"Bldg Inspector,Journey",37.94
+Police Department,Pol Ofcr-Diver,51.68
+Seattle Dept of Transportation,Admin Spec II-BU,25.39
+Fire Department,Fire Lieut-90.46 Hrs,43.98
+Seattle Public Utilities,Disposal CC I,36.83
+City Light,Actg Tech III-BU,29.09
+Seattle Public Utilities,Wtr Pipe Wkr,32.76
+Seattle Public Utilities,Info Technol Prof B-BU,52.25
+Dept of Finance & Admn Svc,Actg Tech II,26.45
+Police Department,Pol Comms Dispatcher I,26.41
+Seattle Center,"Events Svc Rep,Sr",39.4
+City Light,"Elecl Engrng Spec,Assoc *",38.67
+Seattle Public Utilities,"Manager3,Engrng&Plans Rev",64.49
+Seattle Public Utilities,Executive2,64.54
+Fire Department,Fireftr-HM-90.46 Hrs,39.67
+Office of Housing,Com Dev Spec,39.4
+Seattle Dept of Transportation,"Civil Engrng Spec,Assoc",43.32
+Fire Department,Fire Capt-90.46 Hrs,52.68
+City Light,Strucl Iron Wkr CC,50.54
+Mayor's Office,Mayoral Staff Asst 2,39.21
+City Light,Lnwkr,46.27
+Fire Department,Fire Lieut-90.46 Hrs,46.49
+Police Department,Pol Ofcr-Patrl,48.86
+Dept of Finance & Admn Svc,"StratAdvsr1,PC&RM",42.64
+Seattle Public Utilities,Civil Engrng Spec Supv,51.14
+Seattle Dept of Transportation,"Civil Engr,Sr",50.78
+Seattle Dept of HumanResources,Labor Relations Spec,44.23
+Seattle Public Utilities,"Civil Engr,Sr",48.92
+Police Department,Payroll Supv,40.93
+City Light,"Sfty&Hlth Spec,Sr",40.93
+Seattle Information Technology,Info Technol Prof B-BU,50.62
+Seattle Center,Usher *,15.68
+Fire Department,"Warehouser,Chief",33.53
+Seattle Center,Usher *,15.68
+Parks Department,Tennis Instructor,24.93
+Seattle Center,"Publc Relations Spec,Sr",39.4
+Seattle Dept of Transportation,"StratAdvsr1,CSPI&P",42.03
+Seattle Public Utilities,"Elecl Engrng Spec,Sr",48.84
+Parks Department,Lifeguard *,16.47
+Fire Department,Fire Lieut-90.46 Hrs,43.98
+Seattle Public Utilities,Act Exec,46.8
+City Light,Strucl Iron Wkr,44.92
+Parks Department,Parks Maint Aide,15.71
+City Light,"StratAdvsr2,Exempt-BU",49.73
+Seattle Public Utilities,Admin Staff Asst *,29.58
+Fire Department,Fireftr-Ap Drvr-90.46,42.9
+Parks Department,Maint Laborer,25.39
+City Light,Elecl Pwr Systs Engr,60.59
+Parks Department,"Gardener,Sr",29.58
+Dept of Finance & Admn Svc,"Capital Prjts Coord,Sr",49.55
+Seattle Public Utilities,Grants&Contracts Spec,33.16
+Seattle Center,Stage Tech *,30.42
+Parks Department,Facilities Maint Wkr,28.77
+Parks Department,"Gardener,Asst *",21.99
+Parks Department,Constr&Maint Equip Op,33.1
+Fire Department,Fireboat Engr-90.46 Hrs,53.4
+Parks Department,Laborer,22.95
+Dept of Finance & Admn Svc,Info Technol Prof B-BU,54.05
+City Light,"Enrgy Mgmt Anlyst,Asst",42.0
+Police Department,Pol Ofcr-Detective,50.38
+Fire Department,Fire Capt-90.46 Hrs,52.68
+Parks Department,Work Trng Enrollee *,15.0
+Parks Department,Rec Leader *,17.52
+City Light,"Civil Engr,Sr",56.96
+Seattle Public Utilities,Opns Response Cntr Op,32.55
+City Light,Cblspl CC-Net Area,50.54
+Fire Department,Fireftr-MU-90.46 Hrs,42.9
+Police Department,Admin Spec II-BU,25.39
+Parks Department,Rec Leader,19.3
+Parks Department,Grounds Maint Lead Wkr,28.77
+Dept of Finance & Admn Svc,StratAdvsr1 *,39.27
+City Light,Lnwkr,46.27
+Fire Department,Fire Lieut-90.46 Hrs,46.49
+Seattle Center,Usher *,15.68
+Immigrant & Refugee Affairs,"StratAdvsr1,Exempt",37.04
+Seattle Information Technology,Cooperative Intern *,16.12
+Neighborhoods Department,Com Dev Spec,39.4
+City Light,Cooperative Intern *,16.12
+Dept of Finance & Admn Svc,Cust Svc Rep,23.89
+Parks Department,Rec Attendant *,15.68
+Dept of Education & Early Lrng,Admin Staff Asst,31.93
+Seattle Public Utilities,Drainage&Wstwtr Lead Wkr CII,34.22
+Fire Department,Fireftr-Ap Drvr-90.46,42.18
+Parks Department,Lifeguard *,16.47
+City Light,Hydroelec Maint Mach,44.31
+Seattle Information Technology,Info Technol Prof C-BU,48.55
+Seattle Public Utilities,"Plng&Dev Spec,Sr",46.8
+Office of Economic Development,"Com Dev Spec,Sr",45.11
+Parks Department,Metal Fabricator,35.33
+Seattle Public Utilities,"Capital Prjts Coord,Sr",47.7
+Police Department,Pol Ofcr- Student,33.16
+Planning and Community Develop,"Plng&Dev Spec,Sr",46.8
+Neighborhoods Department,Neighb District Coord,40.93
+Seattle Public Utilities,"StratAdvsr2,Utils",49.0
+Seattle Public Utilities,Info Technol Prof C-BU,41.87
+Seattle Information Technology,Info Technol Prof B-BU *,52.06
+City Light,"Elecl Engr,Asst II",35.97
+Seattle Center,Usher *,15.68
+City Light,"StratAdvsr1,Utils",41.67
+Fire Department,Admin Spec II-BU,26.45
+Seattle Public Utilities,Info Technol Prof B-BU,45.54
+City Light,Lnwkr,46.27
+Seattle Public Utilities,"Civil Engr,Sr",56.96
+Seattle Public Utilities,Disposal CC I,36.83
+Dept of Finance & Admn Svc,Metal Fabricator CC,37.53
+Seattle Information Technology,Info Technol Prof B-BU,55.61
+Seattle Center,Stage Tech *,30.42
+Seattle Public Utilities,Info Technol Prof B-BU,45.54
+Seattle Public Utilities,Student Engr Intern *,21.03
+Fire Department,Fireftr-MU Ap Drvr-90.46 Hrs,43.98
+Police Department,Pol Ofcr,38.6
+Seattle Public Utilities,Drainage&Wstwtr Coll CC,39.86
+Seattle Center,"Capital Prjts Coord,Sr",49.55
+City Light,"Elecl Engr,Asst III",41.99
+City Light,Actg Tech III-BU,29.09
+Parks Department,Work Trng Enrollee *,15.0
+Seattle Dept of Transportation,Street Paving CC,35.54
+Mayor's Office,"StratAdvsr3,Exempt",61.36
+City Light,Cblspl-Net Area,44.92
+Police Department,Pol Sgt-Motorcycle,56.44
+City Light,Meter Elctn Working CC,50.54
+City Light,"MatSup,Elec-Asg Cs &/or Cdt",33.9
+Seattle Dept of HumanResources,"StratAdvsr1,Exempt",47.57
+Seattle Dept of Transportation,Civil Engr Supv,61.41
+Police Department,Pol Sgt-Patrl,48.37
+Fire Department,Fire Capt-Trng Div-80 Hrs,63.43
+Fire Department,Fireftr-Ap Drvr-90.46,40.39
+Dept of Finance & Admn Svc,"StratAdvsr2,Exempt",55.37
+Dept of Finance & Admn Svc,Equip Svcr,26.66
+Parks Department,Rec Attendant *,15.68
+Police Department,Pol Sgt-Patrl,53.7
+City Light,Elctn-Con,44.92
+Fire Department,Fire Lieut-90.46 Hrs,45.77
+City Light,Elctn-Con,44.92
+City Light,Comms Elctn II,45.77
+Police Department,Pol Ofcr-Detective,46.91
+City Light,Cust Svc Rep,26.75
+Seattle Center,Parking Attendant *,18.54
+Seattle Dept of Transportation,Carpenter CC,36.26
+Seattle Public Utilities,Wtr Pipe Wkr Sr-WDM II,36.53
+Parks Department,Rec Attendant *,15.68
+Seattle Public Utilities,Drainage&Wstwtr Coll Wkr,29.92
+Seattle Public Utilities,"Elecl Engr,Sr",56.96
+Seattle Center,Stage Tech *,30.42
+City Light,"MatSup,Elec-Asg Cs &/or Cdt",33.9
+Dept of Finance & Admn Svc,"StratAdvsr2,General Govt",50.57
+Seattle Center,Security Ofcr,23.95
+Fire Department,Fireftr-Ap Drvr-90.46,38.95
+Seattle Public Utilities,Actg Tech II-BU,26.45
+Human Services,Yth Emplmnt Enrollee-Sum *,15.0
+Police Department,Pol Ofcr-Non Patrol,48.42
+City Light,"Plng&Dev Spec,Sr",46.8
+Parks Department,Rec Attendant *,15.68
+Seattle Information Technology,Info Technol Prof A *,56.08
+City Light,"Accountant,Prin",43.23
+Planning and Community Develop,"Plng&Dev Spec,Sr",41.77
+Police Department,Pol Recruit,28.21
+Police Department,Pol Ofcr- Student,33.16
+City Light,Executive3,57.42
+Fire Department,Fireftr-90.46 Hrs,31.78
+Seattle Information Technology,"Info Technol Prof A,Exempt",65.68
+Police Department,Pol Ofcr,43.43
+Parks Department,Parks Maint CC,39.13
+Seattle Dept of Const and Insp,"StratAdvsr2,Engrng&Plans Rev",53.62
+Seattle Center,Laborer *,21.6
+Police Department,Pol Ofcr,38.6
+Parks Department,Rec Attendant,15.96
+City Light,Cust Svc Rep *,23.89
+Parks Department,Maint Laborer,25.39
+Fire Department,Fireftr-90.46 Hrs,37.88
+City Light,Lnwkr,46.27
+Seattle Dept of Transportation,Admin Spec II-BU *,23.63
+Seattle Information Technology,Info Technol Prof C-BU,44.51
+Seattle Information Technology,Info Technol Prof B-BU,55.61
+Dept of Finance & Admn Svc,StratAdvsr2 *,59.4
+Parks Department,Lifeguard *,16.47
+Seattle Dept of Transportation,Bridge Maint Mech Hlpr,25.82
+City Light,Elecl Svc Engr,50.83
+City Light,Util Constr Wkr,28.99
+Seattle Public Utilities,Personnel Spec,33.83
+Seattle Center,Parking Attendant *,18.54
+Fire Department,Fireftr-Prev Insp I-80 Hrs,50.34
+City Light,"Capital Prjts Coord,Sr",53.43
+Seattle Center,Security Ofcr,24.75
+City Light,Rights-Of-Way Maint Wkr,29.88
+Seattle Public Utilities,Security Prgms Spec,36.58
+City Light,Elctn-Con,44.92
+Fire Department,Fireftr-90.46 Hrs,40.39
+Parks Department,"Lifeguard,Sr",21.57
+City Light,Personnel Spec,33.83
+Seattle Information Technology,Info Technol Prof B-BU *,52.26
+Human Services,Yth Emplmnt Enrollee-Sum *,15.0
+Planning and Community Develop,Executive3,82.01
+Police Department,Pol Ofcr-Patrl,44.95
+Human Services,Admin Spec I-BU,24.5
+Seattle Center,Actg Tech II-BU *,23.9
+Seattle Dept of Transportation,"Civil Engrng Spec,Assoc",38.67
+Seattle Dept of Transportation,Cement Finisher,30.67
+Seattle Public Utilities,"StratAdvsr2,Utils",60.59
+Parks Department,Work Trng Enrollee *,15.0
+Office of Economic Development,"StratAdvsr3,Exempt",56.07
+Human Services,"Grants&Contracts Spec,Sr",35.93
+Seattle Dept of Transportation,Engrng Aide,29.21
+Seattle Public Utilities,Scale Attendant,21.99
+Police Department,Pol Recruit,28.21
+Seattle Public Utilities,"StratAdvsr1,Exempt",47.66
+Seattle Public Utilities,Pntr CC,37.73
+Office for Civil Rights,Admin Spec III-BU,28.51
+Seattle Center,Janitor-SC/Parks/SPU *,19.53
+City Light,Enrgy Plng Supv-BU,47.81
+Police Department,"Pol Comms Dispatcher,Chief",43.95
+Seattle Information Technology,Info Technol Prof B-BU,50.08
+Seattle Public Utilities,Pmp Stat Maint Wkr,26.14
+Fire Department,Fire Lieut-MU-90.46 Hrs,45.77
+Police Department,Parking Enf Ofcr,27.98
+Police Department,Pol Ofcr-Patrl,46.68
+Police Department,Pol Ofcr,37.18
+Parks Department,Tennis Instructor *,21.49
+Dept of Finance & Admn Svc,Janitorial CC-FAS,26.84
+Fire Department,Fire Capt-90.46 Hrs,53.4
+Seattle Information Technology,"StratAdvsr2,Exempt",52.31
+Seattle Public Utilities,"Civil Engrng Spec,Asst III",39.67
+Fire Department,Fireftr-Ap Drvr-90.46,43.62
+City Light,Lnwkr,46.27
+Police Department,Admin Support Supv-BU,30.17
+City Auditor,Exec Asst,46.8
+Seattle Public Utilities,"Mgmt Systs Anlyst,Sr",41.77
+Police Department,Pol Ofcr-Patrl,48.86
+Seattle Dept of Transportation,Muni Government Intern *,19.76
+Dept of Finance & Admn Svc,Warehouser-BU,25.15
+Seattle Center,Stage Tech *,30.42
+Seattle Center,Stage Tech *,30.42
+Parks Department,Work Trng Enrollee *,15.0
+City Light,"Mat Suplr,Elec-Asg Phd/Cw/D",37.08
+City Employees Retirement Syst,Info Technol Prof A *,51.72
+City Light,Actg Tech III-BU,29.09
+Seattle Dept of Transportation,"Civil Engrng Spec,Asst I",30.62
+City Light,Admin Spec II-BU,26.45
+Fire Department,Fire Lieut-Prev Inspector I,57.24
+Parks Department,Maint Laborer,25.39
+City Light,Pwr Dispatcher,54.42
+Human Services,Grants&Contracts Spec,29.58
+City Light,"Manager3,Exempt-BU",55.95
+Police Department,Pol Ofcr-Patrl,44.95
+City Light,"Manager2,CSPI&P-BU",54.26
+City Light,Student Engr *,21.03
+Seattle Dept of Transportation,"Civil Engrng Spec,Sr",48.84
+Seattle Information Technology,Info Technol Prof B-BU *,47.05
+Seattle Center,Laborer *,21.6
+Seattle Information Technology,StratAdvsr1 *,40.55
+Human Services,Admin Support Asst-BU *,19.93
+Parks Department,Maint Laborer,25.39
+Seattle Dept of Transportation,Executive3,78.54
+Seattle Center,Stage Tech *,30.42
+Fire Department,Fireftr-Dispatcher-84 Hrs,48.71
+Seattle Center,Usher *,15.68
+Seattle Public Utilities,Student Engr Intern *,21.03
+Human Services,Counslr *,28.51
+Seattle Dept of Transportation,"Civil Engrng Spec,Sr",45.36
+Police Department,"Photographer,Sr",35.6
+Seattle Public Utilities,"Civil Engr,Sr",48.92
+Office of Economic Development,"StratAdvsr2,Exempt",49.34
+Seattle Center,Gardener,26.45
+Police Department,Pol Ofcr- Student,35.56
+Parks Department,Rec Attendant *,15.68
+Parks Department,Rec Attendant *,15.68
+Fire Department,Fireftr-90.46 Hrs,35.36
+Fire Department,Fireftr-Ap Drvr-90.46,42.9
+Seattle Dept of Const and Insp,"Elecl Inspector,Sr(Expert)",46.75
+Police Department,Pol Ofcr,43.43
+Dept of Finance & Admn Svc,Auto Mechanic,34.93
+Parks Department,Rec Attendant *,15.68
+Police Department,Pol Ofcr-Patrl,44.95
+Seattle Center,Stage Tech *,30.42
+Seattle Dept of Transportation,"Civil Engr,Sr",56.96
+Dept of Finance & Admn Svc,"Contract Anlyst,Sr",39.4
+Police Department,Victim Advocate,33.16
+Parks Department,Maint Laborer,25.39
+City Budget Office,"StratAdvsr2,Exempt",45.82
+Seattle Dept of Const and Insp,Land Use Plnr II,42.35
+Seattle Center,Stage Tech *,30.42
+Parks Department,Rec Cntr Coord,35.31
+Seattle Center,Actg Tech II-BU *,24.5
+Fire Department,Fireftr-Ap Drvr-90.46,43.62
+Seattle Public Utilities,Wtrshed Opns Supv,43.38
+Parks Department,Lifeguard *,16.47
+Seattle Information Technology,Info Technol Prof B-BU,51.93
+Dept of Finance & Admn Svc,StratAdvsr1 *,48.18
+Parks Department,"Manager3,Parks&Rec",58.14
+Parks Department,Lifeguard *,16.47
+Parks Department,Maint Laborer,25.39
+Police Department,Pol Ofcr,38.6
+Parks Department,Rec Prgm Coord,35.16
+Police Department,Pol Ofcr,37.18
+Police Department,Pol Ofcr,35.56
+Parks Department,Work Trng Enrollee *,15.0
+Fire Department,Fireftr-Ap Drvr-90.46,42.18
+Police Department,Pol Ofcr-Patrl,49.29
+Parks Department,Work Trng Enrollee *,15.0
+City Light,Lnwkr,46.27
+Seattle Public Utilities,"Truck Drvr,Heavy",31.48
+Seattle Information Technology,"Info Technol Prof A,Exempt",64.16
+Seattle Center,Stage Tech *,30.42
+Fire Department,Fireftr-ParamedTechSr-90.46,49.18
+Parks Department,Laborer,22.95
+City Light,Elecl Svc Engr,50.83
+Seattle Public Utilities,"Trng&Ed Coord,Sr",37.94
+Seattle Information Technology,"Info Technol Prof A,Exempt",62.88
+Police Department,Pol Ofcr,37.18
+Parks Department,Rec Attendant *,15.68
+Fire Department,Fireftr-MU-90.46 Hrs,43.62
+Seattle Center,Stage Tech *,30.42
+Seattle Dept of Transportation,Admin Spec I-BU,23.63
+City Light,Equip Svcr,26.66
+Civil Service Commissions,Civil Svc Commissioner,5.53
+Parks Department,Laborer *,21.6
+Parks Department,Maint Laborer,25.39
+Police Department,Latent Print Examiner Trne,31.31
+City Light,"Elecl Engrng Spec,Sr",48.84
+Police Department,Pol Ofcr-Detective-Homicide,49.5
+City Light,Elecl Constr&Maint Supv-BU,59.75
+City Light,Lnwkr,46.27
+Police Department,Pol Ofcr-Hostage Neg-Patrl,49.51
+Seattle Information Technology,Info Technol Prof C-BU,43.26
+Dept of Finance & Admn Svc,Accountant,34.74
+Dept of Finance & Admn Svc,Delivery Wkr,23.18
+Parks Department,Tennis Instructor *,21.49
+Police Department,Pol Comms Dispatcher I,26.41
+Seattle Center,Usher *,15.68
+Police Department,Pol Ofcr-Patrl,44.95
+City Light,Actg Tech II-BU,26.45
+Fire Department,Fireftr-90.46 Hrs,40.39
+Parks Department,Tennis Instructor,24.93
+Dept of Finance & Admn Svc,Equip Svcr,26.66
+Police Department,Pol Lieut,71.16
+Seattle Information Technology,Info Technol Prof B-BU,51.76
+Seattle Information Technology,Info Technol Prof C-BU,41.95
+Seattle Information Technology,Info Technol Prof A *,60.79
+Office of Ethics & Elections,Executive2,73.19
+Parks Department,Rec Attendant *,15.68
+Seattle Dept of Transportation,Installation Maint Wkr *,26.69
+Police Department,Admin Spec III-BU,26.45
+Seattle Center,Adms Employee,18.58
+Dept of Finance & Admn Svc,"Accountant,Prin",39.96
+Seattle Center,Laborer *,21.6
+Fire Department,Fire Lieut-90.46 Hrs,45.77
+Seattle Dept of Transportation,"StratAdvsr2,General Govt",52.51
+Seattle Public Utilities,"Civil Engr,Sr",56.96
+Parks Department,"Aquatic Cntr Coord,Asst",32.06
+Seattle Public Utilities,"Manager2,Utils",60.6
+Dept of Finance & Admn Svc,Auto Mechanic,34.93
+Seattle Dept of Transportation,"Civil Engr,Sr",52.71
+Seattle Public Utilities,Util Act Rep II,32.08
+Seattle Information Technology,Info Technol Prof B-BU,53.64
+Fire Department,Fireftr-90.46 Hrs,37.88
+Seattle Center,Stage Tech *,30.42
+Dept of Finance & Admn Svc,"Warehouser,Sr-BU",28.77
+Parks Department,Aquatic Cntr Coord,32.71
+Seattle Public Utilities,Actg Tech II-BU *,24.5
+Seattle Information Technology,Info Technol Prof B-BU,49.83
+Police Department,Pol Ofcr-Detective,49.51
+Human Services,Counslr,30.78
+Seattle Public Utilities,Admin Spec II-BU,26.45
+Police Department,Pol Ofcr-Patrl,51.03
+City Light,Janitor-FAS/CL,19.53
+Police Department,Pol Comms Dispatcher I,26.41
+Police Department,Pol Ofcr-Patrl,44.95
+Dept of Finance & Admn Svc,Auto Mechanic,34.93
+Fire Department,Actg Tech II-BU,26.45
+Parks Department,Rec Attendant,17.12
+Police Department,Parking Enf Ofcr,29.89
+Police Department,Pol Ofcr-Detective,49.51
+Police Department,Pol Ofcr- Student,35.56
+Seattle Public Utilities,"Manager3,Utils",64.98
+City Employees Retirement Syst,Retirement Spec *,29.09
+Seattle Public Utilities,"Mgmt Systs Anlyst,Sr",46.8
+Seattle Public Utilities,Economist,41.57
+Seattle Public Utilities,Wtr Pipe Wkr-WDM I,33.07
+Seattle Dept of Transportation,"Mgmt Systs Anlyst,Asst *",31.93
+City Light,"Capital Prjts Coord,Sr",53.43
+Seattle Public Utilities,Civil Engr Supv,54.97
+Seattle Dept of Transportation,Constr&Maint Equip Op,33.1
+Fire Department,Fireftr-90.46 Hrs,29.98
+City Light,"Civil Engrng Spec,Assoc",40.1
+Parks Department,Lifeguard *,16.47
+Fire Department,Fireftr-DeconApDrvr-90.46 Hrs,45.42
+Parks Department,Lifeguard *,16.47
+Seattle Dept of Transportation,"Signal Elctn,Journey-Level",46.5
+Fire Department,Fireftr-Dispatcher-84 Hrs,46.39
+Parks Department,Laborer *,21.6
+Seattle Center,Stage Tech *,30.42
+Seattle Information Technology,Admin Spec II,26.45
+Seattle Public Utilities,Solid Wst Fld Rep II,37.01
+Police Department,Pol Ofcr-Patrl,46.68
+Fire Department,Fire Lieut-90.46 Hrs,45.77
+Fire Department,Fire Lieut-ParamedTechSr-84,58.76
+Seattle Public Utilities,"StratAdvsr2,Exempt",53.32
+City Light,Executive2,71.74
+City Light,"Pwr Dispatcher,Sr",61.53
+City Light,"Elecl Engr,Assoc",45.92
+Seattle Center,Executive2,62.09
+Police Department,Pol Comms Dispatcher Supv,46.62
+Police Department,Pol Ofcr-Motorcycle,49.94
+Parks Department,Laborer,21.6
+Dept of Finance & Admn Svc,Auto Mechanic,33.58
+City Light,Elec-Con Core CC,50.54
+City Light,Res&Eval Asst-BU,31.93
+Human Services,Human Svcs Coord,29.09
+Fire Department,Fireftr-90.46 Hrs,40.39
+Parks Department,Lifeguard *,16.47
+Parks Department,Rec Leader *,17.52
+Seattle Information Technology,Info Technol Techl Support *,24.1
+Dept of Finance & Admn Svc,Janitor-FAS/CL,21.03
+City Light,Pwr Marketer-BU,44.53
+City Light,Admin Spec I-BU,24.5
+Parks Department,Rec Attendant *,15.68
+Police Department,Pol Ofcr-Patrl,44.95
+Arts and Culture,"Accountant,Sr",39.96
+Seattle Center,Usher *,15.68
+City Light,Hydroelec Maint Mach,44.31
+Dept of Finance & Admn Svc,"Accountant,Sr",39.96
+Parks Department,Res&Eval Aide *,23.18
+Human Services,Human Svcs Coord,32.55
+City Light,"MatSup,Elec-Asg Cs &/or Cdt",33.9
+Legislative-City Council,"Publc Relations Spec,Sr",39.4
+Seattle Dept of Transportation,"StratAdvsr3,Exempt",59.4
+Seattle Information Technology,StratAdvsr1 *,40.39
+City Light,Lnwkr,46.27
+Seattle Dept of Transportation,"Transp Plnr,Asst",34.33
+Fire Department,Fireftr-90.46 Hrs,41.11
+Seattle Center,Stage Tech *,30.42
+City Light,"Manager3,Utils-BU",60.56
+Parks Department,Maint Laborer,25.39
+Parks Department,"Manager2,Exempt",57.5
+Seattle Dept of Transportation,Elecl Maint Hlpr,26.18
+Police Department,Pol Ofcr-Patrl,49.29
+Parks Department,Rec Attendant *,15.68
+Seattle Dept of Const and Insp,Bldg Inspector Supv,45.87
+Parks Department,Rec Leader *,17.52
+City Light,"Publc Relations Spec,Sr",39.4
+Seattle Center,Dining Room Attendant,16.59
+Dept of Education & Early Lrng,"StratAdvsr2,Exempt",50.5
+Parks Department,Facilities Lead Wkr,27.73
+City Light,Elecl Work Rev CC,50.54
+Parks Department,Rec Leader,28.14
+Seattle Dept of Transportation,Bridge Op,29.68
+Police Department,Pol Comms Dispatcher III,38.51
+Seattle Information Technology,Info Technol Prof B-BU,55.72
+Seattle Public Utilities,Maint Laborer *,25.39
+City Budget Office,Executive4,86.83
+Seattle Center,Usher *,15.68
+Seattle Dept of Transportation,"Bridge Op,Sr",31.32
+Seattle Dept of Transportation,Bridge Op *,27.52
+City Light,Elecl Pwr Systs Engr,60.59
+Seattle Dept of Transportation,Student Engr Intern *,19.53
+Seattle Public Utilities,"Constr&Maint Equip Op,Sr",34.75
+Dept of Finance & Admn Svc,"Remittance Proc Tech,Sr",26.45
+Parks Department,Laborer,21.6
+City Light,Meter Reader Supv,33.17
+Office of Sustainability & Env,"StratAdvsr2,General Govt",57.73
+Seattle Dept of HumanResources,"Mgmt Systs Anlyst,Sr",46.8
+Human Services,"Grants&Contracts Spec,Sr",35.93
+City Light,"Elecl Engrng Spec,Sr",45.36
+Fire Department,Fire Equip Tech,29.58
+Parks Department,Rec Cntr Coord,31.47
+Seattle Center,Carpenter CC,37.73
+Police Department,Pol Ofcr-Detective,50.38
+City Auditor,Exec Manager-City Auditor,72.84
+Seattle Dept of Const and Insp,Plng&Dev Spec II,39.4
+Seattle Public Utilities,Executive2,72.17
+Police Department,Pol Ofcr-Patrl,46.68
+Seattle Public Utilities,"Truck Drvr,Heavy",31.48
+Seattle Dept of Transportation,"Civil Engr,Sr",56.96
+Seattle Public Utilities,Actg Tech III-BU,29.09
+Police Department,Pol Ofcr-Patrl,46.68
+Parks Department,Cashier,17.36
+City Light,Electric Util Exec 2,105.0
+City Light,Lnwkr,46.27
+Seattle Center,Stage Tech *,30.42
+Human Services,Counslr,30.78
+Seattle Dept of Transportation,"Transp Plnr,Asst *",31.86
+City Light,"StratAdvsr2,General Govt",53.42
+Fire Department,Fire Lieut-90.46 Hrs,46.49
+Police Department,Pol Data Tech,26.26
+Seattle Dept of Transportation,Constr&Maint Equip Op,33.1
+Dept of Education & Early Lrng,Executive1,66.68
+Dept of Finance & Admn Svc,Admin Spec II-BU,25.39
+Police Department,Pol Ofcr,37.18
+Office of Housing,"Manager2,Exempt",56.41
+Seattle Public Utilities,"Civil Engr,Sr",56.96
+Fire Department,Fireftr-90.46 Hrs,33.57
+Seattle Public Utilities,Executive2,65.77
+Human Services,Plng&Dev Spec II,39.4
+Fire Department,Fireftr-MU-90.46 Hrs,42.9
+Fire Department,Fire Lieut-MU-90.46 Hrs,49.0
+Police Department,Crime Prev Coord,32.55
+Parks Department,Laborer,22.95
+Seattle Public Utilities,Laborer,22.95
+Seattle Public Utilities,"Envrnmtl Anlyst,Sr",48.44
+Fire Department,Fireftr-Ap Drvr-90.46,42.18
+Fire Department,Fireftr-Dispatcher-84 Hrs,44.46
+Seattle Public Utilities,Pmp Stat Maint Leadwkr,30.5
+Police Department,Pol Ofcr,37.18
+Seattle Public Utilities,Wtr Pipe Wkr Sr-WDM II,36.53
+City Light,Res&Eval Asst-BU,31.93
+Seattle Information Technology,Info Technol Prof B-BU,48.39
+Fire Department,Fireftr-90.46 Hrs,38.6
+Seattle Public Utilities,"Plng&Dev Spec,Sr",46.8
+Seattle Center,"Manager1,CSPI&P",46.58
+Planning and Community Develop,"StratAdvsr3,Exempt",55.08
+Mayor's Office,Mayoral Staff Asst 2,39.21
+Parks Department,"Fin Anlyst,Sr",44.9
+Seattle Dept of HumanResources,"Personnel Anlyst,Sr",39.4
+City Light,Strucl Iron Wkr,44.92
+Seattle Public Utilities,Student Engr Intern *,21.03
+Seattle Center,Laborer *,21.6
+Fire Department,Fireftr-90.46 Hrs,38.6
+Seattle Center,Usher *,15.68
+Human Services,Yth Emplmnt Enrollee-Sum *,15.0
+Human Services,Yth Emplmnt Enrollee-Sum *,15.0
+Intergovernmental Relations,Executive2,63.85
+Fire Department,Fire Lieut-90.46 Hrs,45.77
+City Light,Pwr Structs Mechanic,39.18
+Seattle Public Utilities,Util Act Rep I,24.56
+Seattle Center,Dining Room Attendant,16.07
+Seattle Dept of Const and Insp,Elevator Inspector(J),39.26
+Parks Department,Laborer,22.95
+Seattle Center,Laborer,22.95
+Parks Department,Rec Leader,17.52
+City Light,Hydro Maint Wkr I-Gen,27.12
+Seattle Center,Laborer *,21.6
+City Light,Cblspl-Net Area,44.92
+City Light,HVAC Tech,37.27
+Parks Department,Rec Attendant *,15.68
+Seattle Public Utilities,"Civil Engrng Spec,Assoc",38.67
+Seattle Public Utilities,Disposal CC I,36.83
+City Light,Lnwkr,46.27
+Police Department,Pol Ofcr-Patrl,50.16
+Human Services,Human Svcs Prgm Supv,39.4
+City Light,Mat Controller-BU,27.86
+Parks Department,"Parks Special Events Schdlr,Sr",29.58
+Police Department,Pol Ofcr-Patrl,49.29
+Dept of Finance & Admn Svc,Info Technol Prof A *,58.15
+Fire Department,Fireftr-90.46 Hrs,37.88
+Parks Department,Special C Lead Wkr,30.78
+Seattle Public Utilities,Wtr Pipe Wkr,32.76
+Police Department,Pol Ofcr,43.43
+Police Department,"Mgmt Systs Anlyst,Sr",43.38
+Parks Department,Aquatic Cntr Coord,35.31
+City Light,Jrnywkr In Chg,48.74
+Parks Department,"Lifeguard,Sr",20.77
+Fire Department,Fireftr-90.46 Hrs,35.36
+Dept of Finance & Admn Svc,"StratAdvsr2,Exempt",54.33
+City Light,Info Technol Prof A *,59.28
+City Light,Hydroelec Maint Mach,44.31
+Seattle Public Utilities,"Civil Engrng Spec,Sr",48.84
+Human Services,"Grants&Contracts Spec,Sr",35.93
+Dept of Finance & Admn Svc,Executive2,63.13
+Seattle Public Utilities,Util Act Rep II,32.08
+City Light,"Elecl Pwr Systs Engr,Prin",60.57
+City Light,Line C CC,52.06
+Parks Department,Rec Leader *,17.52
+Human Services,Yth Emplmnt Enrollee-Sum *,15.0
+Seattle Dept of Transportation,"Envrnmtl Anlyst,Sr",46.69
+Seattle Dept of Transportation,Res&Eval Asst-BU,29.58
+Neighborhoods Department,Grants&Contracts Spec,29.58
+Fire Department,Fire Capt-90.46 Hrs,51.96
+Parks Department,"Civil Engrng Spec,Assoc",41.7
+Parks Department,Pntr,32.88
+Human Services,Yth Emplmnt Enrollee-Sum *,15.0
+Parks Department,Work Trng Enrollee *,15.0
+Police Department,Pol Ofcr-Patrl,44.95
+Seattle Center,Janitor-SC/Parks/SPU,20.35
+Police Department,Pol Ofcr-Patrl,50.16
+Seattle Information Technology,Info Technol Prof C-BU,43.26
+Seattle Public Utilities,"Plng&Dev Spec,Sr",46.8
+Planning and Community Develop,"StratAdvsr2,Exempt",54.28
+Fire Department,Fire Lieut-90.46 Hrs,47.21
+Seattle Center,Admin Spec II-BU,26.45
+Parks Department,Rec Attendant,19.96
+Office of Labor Standards,Plng&Dev Spec II,39.4
+Parks Department,Rec Attendant *,15.68
+Seattle Public Utilities,Util Act Rep I,29.65
+Seattle Center,"Events Booking Rep,Sr",39.4
+Mayor's Office,"StratAdvsr2,Exempt",51.58
+Dept of Finance & Admn Svc,Cust Svc Rep,23.89
+Seattle Public Utilities,Wtr Treatment Op-WDM I,30.64
+Seattle Dept of Transportation,"Personnel Spec,Supvsng",47.66
+Seattle Center,Usher *,15.68
+Seattle Information Technology,"Info Technol Prof A,Exempt",61.95
+City Light,Warehouser-BU,26.14
+Parks Department,Rec Attendant,19.96
+Police Department,Pol Ofcr-SWAT,49.94
+Human Services,"Manager2,Human Svcs",47.66
+Police Department,Parking Enf Ofcr,29.89
+Police Department,Pol Ofcr- Student,33.16
+City Light,High School Intern *,15.0
+Parks Department,Metal Fabricator *,35.33
+Fire Department,Fire Lieut-90.46 Hrs,47.92
+Police Department,Pol Ofcr-Patrl,46.68
+Seattle Public Utilities,"StratAdvsr2,Utils",56.18
+City Light,Meter Elctn Working CC,50.54
+City Light,Lnwkr,46.27
+Seattle Public Utilities,Util Act Rep I,29.65
+Parks Department,"Plumber,Sr",40.06
+Seattle Center,Actg Tech II-BU,26.45
+Parks Department,Plumber,37.08
+Dept of Finance & Admn Svc,Info Technol Prof C-BU,41.6
+Fire Department,Fireftr-90.46 Hrs,40.39
+Fire Department,Fire Lieut-90.46 Hrs,46.49
+City Light,Elctn-Con,44.92
+Parks Department,Res&Eval Aide *,23.18
+Fire Department,Fireftr-90.46 Hrs,41.11
+Parks Department,Rec Attendant *,15.68
+City Light,Enrgy Res&Eval Anlyst,41.77
+Seattle Public Utilities,"StratAdvsr2,Fin,Bud,&Actg",57.14
+Police Department,Pol Ofcr-DWI-Am/Pm Enf,45.82
+Seattle Information Technology,"Info Technol Prof A,Exempt",55.57
+City Light,Strucl Pntr,34.02
+Police Department,Pol Ofcr-Detective,48.64
+Police Department,Pol Data Tech,27.2
+Police Department,Pol Ofcr,38.6
+City Light,"StratAdvsr2,General Govt",50.15
+Seattle Public Utilities,"Civil Engrng Spec,Sr",48.84
+Police Department,Pol Data Tech,25.34
+Seattle Public Utilities,"StratAdvsr1,Utils",47.7
+Seattle Public Utilities,Drainage&Wstwtr Coll Wkr CI,30.49
+Seattle Public Utilities,"Plng&Dev Spec,Sr",46.8
+City Light,"MatSup,Elec-Asg Cs &/or Cdt",33.9
+Seattle Center,Util Laborer,24.5
+Fire Department,Fireftr-90.46 Hrs,35.36
+Seattle Dept of HumanResources,"Workers' Comp Anlyst,Sr",43.38
+City Light,"Elecl Engrng Spec,Assoc",43.32
+Seattle Dept of Transportation,"Civil Engr,Sr",52.71
+Police Department,Pol Sgt-Detective,55.94
+Seattle Public Utilities,Wtr Pipe Wkr,32.76
+Police Department,Pol Sgt-Patrl,56.69
+Fire Department,Fireftr-90.46 Hrs,37.88
+Office for Civil Rights,Plng&Dev Spec II,40.93
+City Light,"Elecl Engr,Asst I",33.36
+Parks Department,Facilities Maint Wkr,28.77
+Seattle Center,Laborer *,21.6
+Dept of Finance & Admn Svc,"StratAdvsr2,Exempt",47.05
+Seattle Dept of Const and Insp,Site Dev Insp,39.4
+Human Services,"Fin Anlyst,Asst",32.41
+Seattle Dept of Transportation,Civil Engr Supv,61.41
+Arts and Culture,"StratAdvsr1,General Govt",39.29
+Seattle Dept of Transportation,"Civil Engrng Spec,Sr",48.84
+City Light,"Mech Engr,Asst I *",33.36
+Seattle Dept of Transportation,Maint Laborer,25.39
+Human Services,Plng&Dev Spec II,40.93
+Seattle Public Utilities,"StratAdvsr1,CSPI&P",37.21
+Seattle Dept of Transportation,Admin Staff Anlyst,33.83
+Seattle Public Utilities,Publc Ed Prgm Spec,33.83
+Seattle Information Technology,"Info Technol Prof A,Exempt",63.94
+City Light,Executive2,73.53
+Parks Department,Rec Cntr Coord,32.71
+Police Department,Crime Prev Coord,36.58
+Seattle Dept of Transportation,Executive3,83.83
+Dept of Finance & Admn Svc,Supply&Inventory Tech,24.5
+Seattle Center,Parking Attendant,21.57
+Seattle Dept of Transportation,Maint Laborer,25.39
+Seattle Dept of Transportation,Capital Prjts Coord *,41.57
+Police Department,Admin Spec I-BU,22.77
+Seattle Center,Stage Tech *,30.42
+City Light,"Elecl Engr,Asst I *",33.36
+City Light,"Civil Engr,Assoc",40.88
+Parks Department,"Tree Trimmer,Lead",33.15
+City Light,"Manager3,Utils-BU",63.82
+City Light,Jrnywkr In Chg,48.74
+Seattle Dept of Transportation,Maint Laborer,25.39
+Seattle Dept of Const and Insp,Site Dev Insp,44.23
+Parks Department,Work Trng Enrollee *,15.0
+Police Department,Pol Sgt-Diver,59.44
+Seattle Center,Parking Attendant *,18.54
+Police Department,Pol Comms Dispatcher I,30.65
+Dept of Finance & Admn Svc,Carpenter,32.88
+Parks Department,Golf Course Maint Supv,36.67
+Parks Department,Rec Attendant *,15.68
+Fire Department,Fireftr-Ap Drvr-90.46,42.18
+Seattle Public Utilities,Wtr Pipe Wkr-WDM I,33.07
+Fire Department,Fireftr-HM-90.46 Hrs,37.15
+City Light,Janitor-FAS/CL,21.03
+Seattle Public Utilities,Wtr Pipe Wkr Sr-WDM II,36.53
+Parks Department,Rec Attendant *,15.68
+Parks Department,Lifeguard *,16.47
+Seattle Public Utilities,Laborer,22.95
+Police Department,Pol Sgt-SWAT,56.94
+Parks Department,Rec Prgm Spec,31.31
+Seattle Public Utilities,Admin Staff Asst,34.48
+Seattle Public Utilities,Admin Staff Asst,29.58
+Fire Department,Fire Lieut-90.46 Hrs,47.21
+Seattle Dept of Const and Insp,"Civil Engr,Sr",54.86
+Seattle Information Technology,Info Technol Prof B-BU,50.99
+Seattle Center,Stage Tech *,30.42
+Fire Department,Fireftr-Ap Drvr-90.46,43.62
+City Light,Publc Relations Spec,31.31
+City Light,Prgm Intake Rep,30.21
+Dept of Finance & Admn Svc,Executive2,63.15
+Dept of Finance & Admn Svc,Animal Contrl Ofcr II,28.8
+Fire Department,Fireftr-90.46 Hrs,37.88
+Seattle Information Technology,"Info Technol Prof A,Exempt",65.24
+Police Department,Pol Ofcr-Detective-Homicide,50.37
+Seattle Dept of HumanResources,"StratAdvsr3,General Govt",59.3
+Seattle Public Utilities,Civil Engrng Spec Supv,51.14
+Seattle Public Utilities,Gardener,26.45
+Fire Department,Fire Battalion Chief-91.4 Hrs,60.98
+Seattle Public Utilities,Scale Attendant,24.72
+Police Department,Pol Ofcr-Patrl,48.86
+Dept of Finance & Admn Svc,Info Technol Prof B-BU,48.41
+Seattle Public Utilities,"Warehouser,Sr-BU *",26.69
+Police Department,Pol Ofcr- Student,35.56
+Human Services,Counslr,33.16
+City Light,Pwr Dispatcher,54.42
+Police Department,Pol Ofcr-Detective,46.04
+Parks Department,Maint Laborer,25.39
+Seattle Dept of Transportation,"Transp Plnr,Assoc *",38.56
+City Light,Executive2,69.13
+Police Department,Pol Ofcr-Academy Instructor,47.33
+Parks Department,Rec Attendant *,15.68
+City Light,Mach Spec,31.35
+Dept of Finance & Admn Svc,Actg Tech II,26.45
+City Light,"Capital Prjts Coord,Sr *",51.5
+Fire Department,Fireftr-Ap Drvr-90.46,42.18
+City Light,Civil Engrng Spec Supv,49.2
+City Light,Actg Tech III-BU,29.09
+Seattle Center,"Manager1,P&FM",40.91
+Seattle Public Utilities,Executive2,69.17
+Seattle Public Utilities,"StratAdvsr2,P&FM",53.51
+Police Department,Pol Ofcr,38.6
+Seattle Dept of Transportation,"Civil Engr,Assoc",45.92
+City Light,Elecl PwrSystsEngr-Mrt,61.88
+Human Services,"Grants&Contracts Spec,Sr",35.93
+Seattle Dept of Transportation,Engrng Emerg Laborer,32.34
+Dept of Finance & Admn Svc,Licenses&Standards Inspector,32.38
+Seattle Dept of Transportation,"Grounds Equip Mechanic,Sr",32.55
+Office for Civil Rights,"StratAdvsr1,Exempt",43.05
+City Light,"Capital Prjts Coord,Sr",53.43
+Dept of Finance & Admn Svc,"Info Technol Prof A,Exempt",50.07
+Parks Department,Lifeguard *,16.47
+Parks Department,"Work Trng Enrollee,Tier II *",15.93
+City Light,Enrgy Mgmt Anlyst,44.72
+Fire Department,Fireftr-TRTDiveDriver-90.46 Hr,45.78
+Fire Department,Fireftr-Ap Drvr-90.46,42.9
+Seattle Dept of Transportation,Traffic Sign&Marking Lead Wkr,28.77
+Seattle Center,Laborer *,21.6
+Seattle Dept of Transportation,"Civil Engr,Sr",50.78
+Seattle Dept of Transportation,"Civil Engr,Assoc",45.92
+City Light,Security Prgms Spec *,37.94
+Seattle Information Technology,"StratAdvsr2,Exempt",47.66
+Fire Department,Fireftr-Dispatcher-84 Hrs,47.16
+Seattle Dept of HumanResources,"StratAdvsr1,General Govt",47.57
+Police Department,Pol Ofcr,38.6
+Police Department,Pol Recruit,28.21
+Fire Department,Fireftr-90.46 Hrs,31.78
+Parks Department,Lifeguard *,16.47
+Fire Department,Fireftr-ParamedTechSr-90.46,47.03
+Fire Department,"Fire Chief,Dep-80 Hrs",78.48
+Seattle Public Utilities,"Plng&Dev Spec,Sr",46.8
+City Light,Admin Spec II-BU,26.45
+Seattle Information Technology,"Info Technol Prof A,Exempt",65.04
+Human Services,"Grants&Contracts Spec,Sr",35.93
+Seattle Public Utilities,"Civil Engr,Sr",56.96
+Seattle Dept of Transportation,Actg Tech II-BU,26.45
+Seattle Public Utilities,Scale Attendant,24.72
+Seattle Public Utilities,"Civil Engrng Spec,Sr",48.84
+City Light,"Prjt Fund&Agreemts Coord,Sr",41.77
+Police Department,Pol Ofcr-Patrl,49.29
+Police Department,Pol Ofcr-Patrl,44.95
+Fire Department,Fireftr-90.46 Hrs,38.6
+Parks Department,Maint Laborer,25.39
+Police Department,"Mgmt Systs Anlyst,Asst",34.48
+Police Department,Pol Ofcr,37.18
+City Light,Admin Staff Asst *,31.93
+Police Department,Pol Ofcr-Detective,48.64
+Parks Department,Lifeguard *,16.47
+Fire Department,Fireftr-90.46 Hrs,31.78
+Police Department,Pol Ofcr-Patrl,48.86
+Police Department,Pol Sgt-Patrl,48.37
+Seattle Information Technology,"StratAdvsr2,Exempt",50.27
+City Light,Capital Prjts Coord Supv-BU,55.43
+City Light,"StratAdvsr2,Utils-BU",53.05
+City Light,"StratAdvsr2,Utils-BU",51.81
+Police Department,Pol Sgt-Patrl,56.19
+Seattle Center,Parking Attendant *,18.54
+Parks Department,Work Trng Enrollee *,15.0
+Seattle Center,Stage Tech *,30.42
+Human Services,Yth Emplmnt Enrollee-Sum *,15.0
+City Light,"Elec Engrng Des Spec,Asst III",41.99
+Police Department,"Manager2,General Govt",47.93
+Police Department,Pol Ofcr-Patrl,44.95
+Parks Department,Lifeguard *,16.47
+City Light,Prjt Fund&Agreemts Coord,39.4
+Parks Department,Lifeguard,17.11
+Police Department,Pol Ofcr-Patrl,46.68
+Seattle Dept of Transportation,Arboriculturist,35.93
+City Light,"Elecl Engr,Asst III",40.45
+Parks Department,Grounds Equip Mechanic,30.17
+Police Department,Parking Enf Ofcr,29.89
+Seattle Dept of Const and Insp,Noise Contrl Prgm Spec,43.38
+Seattle Dept of Transportation,"Civil Engrng Spec,Sr",45.36
+Police Department,Pol Ofcr-Patrl,49.29
+Seattle Center,"Manager2,CSPI&P",48.5
+Police Department,Actg Tech II-BU,26.45
+Parks Department,Rec Attendant *,15.68
+Police Department,Equip&Facilities Coord,37.94
+Dept of Finance & Admn Svc,"Info Technol Prof A,Exempt",50.07
+Seattle Center,HVAC Tech,37.27
+Seattle Center,HVAC Tech,37.27
+Seattle Public Utilities,"Constr&Maint Equip Op,Sr",34.75
+Seattle Center,"Exec Asst,Sr",48.57
+City Light,Meter Reader,26.18
+Police Department,Pol Ofcr,43.43
+Seattle Public Utilities,"Wtr Pipe Wkr,Sr",35.14
+Seattle Dept of HumanResources,"StratAdvsr2,Exempt",54.01
+Dept of Finance & Admn Svc,Auto Maint CC,40.86
+Seattle Dept of Transportation,Bridge Op *,27.52
+Police Department,Pol Ofcr-Detective,48.64
+Seattle Public Utilities,Actg Tech III-BU,29.09
+Civil Service Commissions,Civil Svc Commissioner,5.53
+Seattle Center,"Stage Tech,Lead",32.81
+City Employees Retirement Syst,Executive4 *,107.07
+Parks Department,Lifeguard *,16.47
+Seattle Information Technology,Info Technol Systs Anlyst *,35.93
+Seattle Public Utilities,Wtr Pipe Wkr,30.3
+Seattle Dept of Transportation,Street Maint CC,36.23
+Seattle Dept of Const and Insp,Admin Spec III-BU,26.45
+Seattle Information Technology,Cooperative Intern *,16.12
+Seattle Information Technology,Info Technol Prof B-BU,47.53
+Police Department,Pol Ofcr-Detective,47.77
+Legislative-City Council,Legislative Asst,30.0
+Seattle Dept of Transportation,"Civil Engrng Spec,Asst I",29.5
+Fire Department,Fire Capt-90.46 Hrs,51.96
+Dept of Finance & Admn Svc,Executive2,68.48
+Parks Department,Work Trng Enrollee *,15.0
+Human Services,"Grants&Contracts Spec,Sr",31.93
+Seattle Public Utilities,Student Engr Intern *,21.03
+Seattle Public Utilities,"Civil Engrng Spec,Sr",45.36
+Police Department,Pol Ofcr,35.56
+Seattle Public Utilities,"Wtr Quality Anlyst,Sr",39.4
+Seattle Dept of Const and Insp,Publc Relations Supv,42.56
+Parks Department,Cashier *,16.28
+Seattle Public Utilities,"Trng&Ed Coord,Asst",29.09
+Seattle Dept of Transportation,"Civil Engr,Asst I *",32.06
+Fire Department,Fire Lieut-ParamedTechSr-84,56.44
+Police Department,Admin Spec III-BU,28.51
+Seattle Dept of Const and Insp,Permit Spec II,37.94
+Police Department,Pol Ofcr-Patrl,48.86
+City Light,"Electric Util Exec 3,Dir",93.88
+City Light,"Pwr Dispatcher,Sr",61.53
+Seattle Public Utilities,"Manager2,Info Technol",52.63
+Seattle Dept of Transportation,"Cement Finisher,Sr",32.44
+Fire Department,Fireftr-Prev Insp I-80 Hrs,51.15
+Police Department,Pol Ofcr-Patrl,51.03
+Seattle Center,Executive2,60.4
+Dept of Finance & Admn Svc,"Warehouser,Sr-BU",28.77
+Police Department,Pol Ofcr-Patrl,49.29
+Seattle Center,Sound Op *,33.5
+Seattle Dept of Transportation,"Maint Laborer,Sr-Traffic",27.18
+Parks Department,Admin Spec I-BU *,21.99
+City Light,"Enrgy Mgmt Anlyst,Sr *",45.96
+Arts and Culture,"Arts Prgm Spec,Sr",36.58
+Parks Department,"Gardener,Sr",27.45
+Dept of Finance & Admn Svc,"StratAdvsr2,Exempt",55.45
+Seattle Dept of Transportation,Civil Engr Supv,61.41
+Police Department,Pol Ofcr-Detective,48.64
+Police Department,Equip&Facilities Coord,37.94
+Parks Department,Rec Attendant *,15.68
+Seattle Information Technology,Info Technol Prof B-BU,53.59
+Seattle Public Utilities,Civil Engr Supv,61.41
+Seattle Dept of Transportation,"Constr&Maint Equip Op,Sr",34.75
+City Light,Hydroelec Op II,44.92
+Fire Department,Fire Lieut-ParamedTechSr-80,60.08
+Seattle Dept of Const and Insp,Permit Spec I,33.83
+Office of Housing,"Fin Anlyst,Sr",44.9
+Seattle Dept of Transportation,Exec Asst,46.8
+City Light,"Accountant,Prin",43.23
+Police Department,Pol Sgt-Detective,56.94
+Police Department,Pol Ofcr-Patrl,44.08
+Police Department,Pol Comms Dispatcher I,26.41
+Police Department,Pol Ofcr-Detective,47.77
+Seattle Dept of Transportation,"Civil Engrng Spec,Assoc",40.1
+Seattle Center,Laborer,22.95
+Seattle Dept of Transportation,"Civil Engrng Spec,Sr",48.84
+Seattle Dept of Const and Insp,Exec Asst,41.77
+Parks Department,Tree Trimmer,30.35
+Seattle Public Utilities,Util Act Rep Trne,23.63
+Police Department,Pol Sgt-Detective,55.94
+Seattle Public Utilities,"StratAdvsr2,Engrng&Plans Rev",57.36
+Seattle Dept of Transportation,Tree Trimmer,30.35
+Dept of Education & Early Lrng,Executive3,81.05
+Police Department,Pol Sgt-Motorcycle,54.45
+City Light,Cblspl CC-Net Area,50.54
+City Light,Elecl Pwr Systs Engr,60.59
+Community Police Commission,"StratAdvsr1,Exempt",45.2
+Seattle Public Utilities,"Manager2,P&FM",53.96
+Human Services,Registered Nurse Consultant,40.77
+Seattle Public Utilities,Drainage&Wstwtr Coll Wkr CI,29.35
+Seattle Public Utilities,"Mgmt Systs Anlyst,Sr",46.8
+Parks Department,Maint Laborer,25.39
+Fire Department,Fireftr-90.46 Hrs,37.88
+Police Department,Pol Ofcr-Patrl,44.95
+Parks Department,Parks Maint CC,37.53
+Police Department,Pol Data Tech,27.2
+Fire Department,Fireftr-90.46 Hrs,38.6
+Seattle Dept of Const and Insp,"Strucl Plans Engr,Sr",56.26
+Seattle Center,Laborer,22.95
+City Light,Prot&Cntrl Elctn II,50.31
+Seattle Public Utilities,"Civil Engrng Spec,Asst I *",30.62
+Seattle Information Technology,Info Technol Prof B-BU *,38.65
+Seattle Public Utilities,"StratAdvsr1,Utils",53.86
+Fire Department,Fireftr-90.46 Hrs,37.16
+Seattle Center,Usher *,15.68
+City Light,"Civil Engr,Assoc",45.92
+City Light,"Electric Util Exec 3,Dir",96.97
+Human Services,"Grants&Contracts Spec,Sr",35.93
+Seattle Public Utilities,Drainage&Wstwtr Lead Wkr CII,34.22
+Police Department,Admin Spec II-BU,25.39
+Police Department,Admin Spec II-BU,26.45
+Seattle Public Utilities,Executive2,72.17
+Fire Department,Fire Lieut-90.46 Hrs,43.98
+Seattle Public Utilities,"Wtrshed Inspector,Sr",37.94
+City Light,"StratAdvsr2,General Govt-BU",58.58
+Fire Department,Fireftr-90.46 Hrs,29.98
+Seattle Center,Janitor-SC/Parks/SPU *,19.53
+City Light,Elctn-Con-Wkg CC,50.54
+Seattle Public Utilities,Wtr Syst Op,38.97
+Police Department,Pol Ofcr-Patrl,44.08
+Seattle Center,Usher *,15.68
+Parks Department,"Personnel Spec,Asst",27.97
+Seattle Dept of Transportation,Street Paving CC,36.83
+Seattle Center,Stage Tech *,30.42
+Seattle Dept of Transportation,"Civil Engrng Spec,Assoc",43.32
+Seattle Center,Usher *,15.68
+City Light,Lnwkr,46.27
+Seattle Dept of Transportation,"Signal Elctn,Journey-Level",46.5
+Seattle Information Technology,Info Technol Systs Anlyst,41.77
+Parks Department,Lifeguard *,16.47
+City Light,Actg Tech II-BU,26.45
+Parks Department,Cashier *,16.28
+Seattle Dept of HumanResources,Cooperative Intern *,16.12
+City Light,Maint Laborer *,25.39
+Police Department,Pol Ofcr,38.6
+Police Department,Pol Recruit,28.21
+City Light,"Electric Util Exec 3,Dir",109.58
+City Light,Elecl Pwr Systs Engr,60.59
+Police Department,Pol Ofcr-Patrl,46.68
+Police Department,Pol Ofcr-Detective-Homicide,50.37
+Seattle Public Utilities,Meter Reader,26.18
+Fire Department,"Trng&Ed Coord,Asst-BU",29.09
+City Light,"Enrgy Mgmt Anlyst,Sr",51.65
+Seattle Information Technology,Info Technol Prof C-BU,44.79
+Parks Department,Rec Prgm Spec,31.31
+Police Department,Equip&Facilities Coord,37.94
+Seattle Dept of Const and Insp,Admin Staff Asst,31.93
+Seattle Information Technology,"Info Technol Prof A,Exempt",58.65
+Human Services,Yth Emplmnt Enrollee-Sum *,15.0
+Police Department,Pol Ofcr,43.43
+Seattle Public Utilities,"Truck Drvr,Heavy",31.48
+Office of Economic Development,"StratAdvsr1,Exempt",42.73
+Fire Department,Fireftr-Ap Drvr-90.46,43.62
+Dept of Finance & Admn Svc,"Manager2,General Govt",43.22
+Parks Department,Grounds Maint Lead Wkr,28.77
+Dept of Finance & Admn Svc,"Personnel Spec,Sr",39.4
+Police Department,Pol Ofcr-Patrl,50.16
+Fire Department,Fireftr-Ap Drvr-90.46,42.18
+Seattle Public Utilities,Mgmt Systs Anlyst,33.83
+Seattle Center,Util Laborer,24.5
+Seattle Center,Stage Tech *,30.42
+City Light,"Sfty&Hlth Spec,Sr",45.87
+Parks Department,Res&Eval Asst *,27.45
+Parks Department,Lifeguard *,16.47
+Seattle Public Utilities,"Mgmt Systs Anlyst,Sr",46.8
+Police Department,Pol Lieut,66.3
+City Light,"Accountant,Prin",44.9
+Seattle Public Utilities,"Civil Engr,Sr",56.96
+City Light,Elctn-Con-(OI),44.92
+Fire Department,Fire Capt-90.46 Hrs,52.68
+City Light,"Trng&Ed Coord,Sr",37.94
+Seattle Dept of Const and Insp,Permit Spec I,32.55
+Dept of Finance & Admn Svc,Accountant,31.02
+Hearing Examiner,Admin Spec II,26.45
+City Budget Office,"StratAdvsr2,Exempt",44.35
+Dept of Finance & Admn Svc,Cust Svc Rep,24.86
+Seattle Public Utilities,Laborer *,22.15
+Fire Department,Executive4,107.84
+City Light,Warehouser-BU *,24.19
+Seattle Public Utilities,"Civil Engrng Spec,Sr",47.05
+Office of Economic Development,Com Dev Spec,35.16
+City Light,"Elecl Engrng Spec,Assoc",43.32
+Parks Department,Installation Maint Wkr,27.73
+City Light,Lnwkr,46.27
+Seattle Dept of Transportation,Truck Drvr,29.94
+Seattle Information Technology,Info Technol Prof C-BU,44.03
+Dept of Finance & Admn Svc,Cust Svc Rep Supv,32.95
+Seattle Information Technology,Info Technol Prof B-BU,51.01
+Police Department,Pol Ofcr-Patrl,44.95
+Seattle Information Technology,Info Technol Prof B-BU,50.5
+Police Department,Pol Comms Dispatcher II,35.66
+Seattle Public Utilities,"StratAdvsr2,General Govt",51.25
+Seattle Dept of Transportation,Cement Finisher,30.67
+Police Department,Pol Ofcr- Student,35.56
+Seattle Dept of Transportation,"Manager3,Engrng&Plans Rev",64.14
+City Light,Executive2,76.86
+Dept of Finance & Admn Svc,Accountant,34.74
+City Light,Strucl Iron Wkr,44.92
+Police Department,Pol Ofcr-Patrl,44.95
+Seattle Public Utilities,"Civil Engr,Sr",56.96
+Dept of Finance & Admn Svc,Info Technol Prof B-BU,43.81
+Seattle Dept of Transportation,Maint Laborer,25.39
+Seattle Dept of Transportation,"Civil Engrng Spec,Sr",48.84
+Parks Department,Maint Laborer,25.39
+Seattle Public Utilities,"Prjt Fund&Agreemts Coord,Sr",40.16
+Seattle Center,Usher *,15.68
+City Light,Util Constr Wkr,28.17
+Neighborhoods Department,Admin Spec II-BU,25.39
+Police Department,"StratAdvsr2,CL&PS",48.48
+Seattle Public Utilities,Util Maint Spec-SPU,34.82
+Seattle Information Technology,Info Technol Prof C,38.11
+Seattle Information Technology,Info Technol Prof B-BU,54.97
+Dept of Finance & Admn Svc,Auto Mechanic,34.93
+Seattle Public Utilities,Admin Staff Asst,34.48
+Seattle Center,Pntr CC,37.73
+Dept of Finance & Admn Svc,Auto Mechanic,34.93
+Fire Department,Fire Lieut-90.46 Hrs,45.77
+Seattle Dept of Transportation,"Civil Engrng Spec,Sr",48.84
+Seattle Public Utilities,"Plng&Dev Spec,Sr",45.11
+Seattle Information Technology,Info Technol Prof C-BU,44.28
+Seattle Information Technology,Info Technol Prof B-BU,48.26
+Police Department,Pol Lieut,62.48
+Seattle Public Utilities,"Civil Engr,Sr",56.96
+Seattle Public Utilities,Drainage&Wstwtr Coll Wkr,28.76
+City Light,"Elecl PwrSystsEngr,Prin-Mrt",67.54
+Seattle Public Utilities,"Manager3,Utils",63.55
+Seattle Center,Parking Attendant *,18.54
+Seattle Information Technology,Info Technol Prof A *,54.33
+City Light,Elec-Con(OI)Wkg CC-C Coord,50.54
+Seattle Public Utilities,"StratAdvsr1,Utils",51.73
+Seattle Information Technology,Info Technol Prof B-BU,54.55
+Fire Department,Fire Lieut-90.46 Hrs,46.49
+Seattle Public Utilities,"Civil Engr,Sr",56.96
+Office of Ethics & Elections,"StratAdvsr1,Exempt",52.52
+Parks Department,Lifeguard *,16.47
+Seattle Public Utilities,Admin Spec III-BU,25.39
+Dept of Finance & Admn Svc,Cust Svc Rep,24.86
+Seattle Dept of Transportation,"Mgmt Systs Anlyst,Asst *",31.93
+Parks Department,Laborer,22.95
+Fire Department,Fireftr-90.46 Hrs,33.57
+Seattle Dept of Transportation,Admin Spec I-BU *,21.99
+Fire Department,Fire Capt-90.46 Hrs,53.4
+Seattle Center,Stage Tech *,30.42
+City Light,"Elecl Engrng Spec,Asst I",31.49
+Seattle Dept of Transportation,"Transp Plnr,Sr",50.27
+Police Department,Pol Capt,82.54
+Human Services,Social Svcs Aide,21.99
+Police Department,Pol Lieut,67.34
+Seattle Dept of Transportation,Maint Laborer,25.39
+Police Department,Pol Ofcr-SWAT,47.33
+Police Department,Pol Ofcr-Academy Instructor,49.94
+Seattle Dept of Const and Insp,Mech Inspector(J),44.23
+Police Department,Pol Ofcr-Canine,50.81
+Seattle Public Utilities,Drainage&Wstwtr Coll Wkr CI,30.49
+Seattle Information Technology,Info Technol Prof C-BU,44.49
+City Light,"Elecl Engr,Asst I",34.67
+Police Department,Pol Ofcr- Student,35.56
+Police Department,Pol Ofcr-Patrl,50.16
+Seattle Public Utilities,"StratAdvsr2,Engrng&Plans Rev",57.2
+Police Department,Pol Ofcr-Patrl,44.95
+Seattle Public Utilities,Meter Reader,26.18
+Seattle Public Utilities,Drainage&Wstwtr Lead Wkr CII,34.22
+Seattle Public Utilities,"Constr&Maint Equip Op,Sr",34.75
+City Light,"Manager2,Exempt",52.07
+Human Services,Human Svcs Prgm Supv,39.4
+Seattle Public Utilities,Wtr Pipe Wkr,32.76
+Legislative-City Council,Legislative Asst *,25.0
+Seattle Center,Usher *,15.68
+Dept of Finance & Admn Svc,Auto Mechanic,34.93
+Police Department,Pol Ofcr-Patrl,46.68
+Parks Department,"Accountant,Prin",44.9
+City Light,Cblspl CC-Asg C Coord,50.54
+Police Department,Pol Ofcr,38.6
+Legislative-City Council,StratAdvsr-Legislative,58.69
+City Light,Elctn-Con,44.92
+City Light,Cust Svc Rep,26.75
+Parks Department,"Rec Cntr Coord,Asst",28.64
+Mayor's Office,"StratAdvsr3,Exempt",61.36
+Dept of Finance & Admn Svc,Animal Contrl Ofcr II,28.8
+City Light,Equip Svcr *,25.63
+Fire Department,Fireftr-Paramed Tech-90.46 Hrs,44.7
+Police Department,Pol Ofcr-Hostage Neg-Patrl,49.94
+Seattle Dept of Transportation,Traffic Sign&Marking CC I,36.23
+Seattle Information Technology,"Info Technol Prof A,Exempt",55.72
+City Light,"Warehouser,Sr-BU",28.77
+Police Department,Pol Ofcr-Patrl,44.95
+Seattle Dept of Transportation,Civil Engr Supv,57.05
+Seattle Public Utilities,Util Act Rep I,29.65
+Police Department,Admin Spec II-BU,26.45
+Fire Department,Fire Battalion Chief-91.4 Hrs,60.98
+Dept of Finance & Admn Svc,Plumber,37.08
+Police Department,Pol Ofcr-Detective,49.51
+Police Department,Pol Ofcr-Patrl,46.68
+Fire Department,Fireftr-ParamedTechSr-90.46,48.47
+Seattle Public Utilities,"Warehouser,Sr-BU",28.77
+Fire Department,Fireftr-MU-90.46 Hrs,37.15
+Police Department,Pol Ofcr,37.18
+City Light,Elctn-Con,44.92
+City Light,"MatSup,Elec-Asg OPVTCHBNSTR",34.96
+Police Department,Pol Ofcr-Patrl,46.68
+Seattle Information Technology,Info Technol Prof B-BU,54.54
+City Light,Lnwkr,46.27
+Police Department,Pol Sgt-Detective,57.94
+Seattle Public Utilities,Drainage&Wstwtr Lead Wkr CII,34.22
+City Light,"Manager2,Utils",50.28
+Parks Department,"Real Property Agent,Sr",49.27
+City Light,"MatSup,Elec-Asg Cs &/or Cdt",33.9
+Police Department,Pol Ofcr-DWI-Am/Pm Enf,48.42
+Police Department,Pol Ofcr-Patrl,48.86
+Parks Department,Plng&Dev Spec II,40.93
+Fire Department,Fireftr-HM-90.46 Hrs,42.18
+Dept of Finance & Admn Svc,"Manager2,P&FM",55.88
+Parks Department,Tennis Instructor *,21.49
+Fire Department,Fireftr-90.46 Hrs,41.83
+Fire Department,Fire Lieut-MU-90.46 Hrs,45.05
+Seattle Center,HVAC Tech,35.86
+Police Department,Pol Ofcr-Patrl,48.86
+Human Services,Counslr,29.58
+Fire Department,Fire Lieut-90.46 Hrs,45.77
+Seattle Public Utilities,Meter Reader,26.18
+Fire Department,Fire Capt-90.46 Hrs,52.68
+Dept of Education & Early Lrng,"Plng&Dev Spec,Sr",43.38
+Seattle Center,Elctn,40.72
+Police Department,Pol Ofcr-Patrl,44.08
+City Light,Lnwkr,46.27
+Parks Department,Rec Cntr Coord,33.97
+Parks Department,"Accountant,Sr",39.96
+Fire Department,Fire Capt-90.46 Hrs,53.4
+Dept of Finance & Admn Svc,Executive1,62.41
+Seattle Dept of Const and Insp,Housing/Zoning Inspector,38.56
+Fire Department,Fire Lieut-Dispatcher-84 Hrs,54.51
+Seattle Center,Sound&Video Equip Tech,34.75
+Seattle Center,"Opns CC,Sr-SC",37.26
+Seattle Public Utilities,"StratAdvsr3,Utils",63.83
+Dept of Finance & Admn Svc,Treasury Cashier,35.93
+Parks Department,Rec Leader,17.52
+Fire Department,Fireftr-Ap Drvr-90.46,42.9
+Parks Department,Rec Attendant,15.68
+Seattle Center,Parking Attendant *,18.54
+Seattle Dept of Transportation,Traffic Sign&Marking Lead Wkr,29.88
+Dept of Finance & Admn Svc,"Manager1,Fin,Bud,&Actg",43.38
+Dept of Finance & Admn Svc,Admin Staff Asst,34.48
+Dept of Finance & Admn Svc,Info Technol Prof A *,54.33
+Fire Department,Fire Capt-90.46 Hrs,52.68
+Seattle Center,Usher *,15.68
+Seattle Center,Stage Tech *,30.42
+Parks Department,"Gardener,Sr",29.58
+Parks Department,Seattle Conserv Corps Supv,27.73
+Seattle Center,Usher *,15.68
+Police Department,Pol Ofcr-Motorcycle,49.94
+Parks Department,Lifeguard *,16.47
+Seattle Center,Usher *,15.68
+Seattle Center,Stage Tech *,30.42
+Fire Department,Fireftr-90.46 Hrs,41.11
+Police Department,Parking Enf Ofcr,29.89
+Seattle Dept of Const and Insp,Admin Spec II-BU,26.45
+Seattle Dept of Const and Insp,"Elecl Insp,Sr/EleclPlnExmExp",46.75
+Police Department,Pol Ofcr-Patrl,44.95
+City Light,"StratAdvsr1,Utils",45.7
+Parks Department,Util Laborer,24.5
+Police Department,Pol Sgt-Detective-Homicide,57.94
+City Light,"Personnel Spec,Asst",26.89
+Neighborhoods Department,Executive3,68.59
+Legislative-City Council,Councilmember,59.08
+Seattle Public Utilities,"Civil Engr,Sr",54.86
+Seattle Information Technology,Info Technol Prof B-BU,55.71
+City Light,Pwr Anlyst,45.36
+City Light,Engrng Aide,29.21
+Police Department,Pol Data Tech Supv,32.34
+Seattle Dept of Transportation,"Cement Finisher,Sr",32.44
+Parks Department,Rec Leader *,17.52
+Fire Department,Fireftr-Dispatcher-84 Hrs,47.16
+Parks Department,Maint Laborer,25.39
+Dept of Finance & Admn Svc,Info Technol Prof B-BU,42.78
+Seattle Dept of Const and Insp,Admin Staff Anlyst,39.4
+City Light,Cblspl-Net Area,44.92
+Parks Department,Rec Attendant,19.96
+Parks Department,Rec Attendant *,15.68
+Seattle Public Utilities,"Civil Engr,Sr",56.96
+Parks Department,Rec Attendant *,15.68
+Police Department,Pol Ofcr-Motorcycle,48.2
+Dept of Finance & Admn Svc,Executive2,69.47
+Office for Civil Rights,Civil Rights Anlyst,32.55
+Police Department,Pol Sgt-Detective,52.95
+Seattle Information Technology,Info Technol Prof B-BU,48.12
+Seattle Public Utilities,"Economist,Prin",53.11
+Fire Department,Fireftr-Paramed Tech-90.46 Hrs,46.49
+City Light,Elctn-Con,44.92
+Dept of Finance & Admn Svc,"StratAdvsr1,Fin,Bud,&Actg",44.51
+Seattle Public Utilities,"StratAdvsr2,Utils",55.03
+Seattle Public Utilities,Drainage&Wstwtr Coll Wkr CI,30.49
+Police Department,Pol Ofcr,37.18
+Parks Department,Sfty&Hlth Spec,42.56
+Seattle Public Utilities,"Civil Engr,Sr",56.96
+City Light,"Capital Prjts Coord,Asst *",41.57
+Police Department,Pol Ofcr-Motorcycle,48.2
+Police Department,Pol Ofcr-Detective,48.64
+Police Department,Admin Spec II-BU,26.45
+Police Department,Pol Sgt-Patrl,58.69
+Dept of Finance & Admn Svc,Auto Mechanic,34.93
+Seattle Dept of Transportation,"StratAdvsr2,Engrng&Plans Rev",55.35
+Police Department,Pol Ofcr-Patrl,48.86
+Police Department,Pol Data Tech,27.2
+Seattle Public Utilities,"Civil Engr,Sr",56.96
+Parks Department,Laborer,22.95
+Dept of Education & Early Lrng,"Prgm Intake Rep,Sr",32.55
+Dept of Finance & Admn Svc,Executive4,93.15
+Seattle Information Technology,Info Technol Prof A *,55.35
+Seattle Public Utilities,Meter Reader,26.18
+Mayor's Office,Mayoral Staff Asst 2,33.05
+City Light,"Elecl PwrSystsEngr,Prin-Mrt",65.21
+Police Department,Pol Ofcr-DWI-Am/Pm Enf,49.29
+Fire Department,Fire Lieut-90.46 Hrs,45.77
+Dept of Finance & Admn Svc,"StratAdvsr2,General Govt",53.37
+Seattle Dept of Const and Insp,Bldg Plans Examiner,44.05
+Seattle Public Utilities,"Meter Reader,Sr",30.69
+Dept of Finance & Admn Svc,"Warehouser,Sr-BU",28.77
+Dept of Finance & Admn Svc,"Manager1,Fin,Bud,&Actg",52.95
+City Light,"Mgmt Systs Anlyst,Sr",45.11
+Police Department,Pol Ofcr- Student,35.56
+Seattle Dept of Transportation,Civil Engrng Spec Supv,51.14
+Seattle Center,Facilities Lead Wkr,28.77
+Parks Department,Maint Laborer,25.39
+Seattle Dept of Transportation,Bridge Op,29.68
+Fire Department,Fireftr-Ap Drvr-90.46,42.9
+Parks Department,Truck Drvr,29.94
+Parks Department,Rec Attendant *,15.68
+Seattle Public Utilities,"Mat Controller,Prin",36.58
+Police Department,Pol Ofcr- Student,43.43
+Human Services,Counslr,33.16
+Seattle Center,Sound&Video Equip Tech,34.75
+Dept of Finance & Admn Svc,"Auto Mechanic,Sr",36.71
+Seattle Public Utilities,Gardener *,24.5
+Fire Department,Fire Lieut-Prev Inspector I,57.24
+Fire Department,Fireftr-90.46 Hrs,33.57
+Seattle Public Utilities,Wtr Pipe CC-WDM II,42.1
+Seattle Dept of Const and Insp,Housing/Zoning Inspector,35.68
+Parks Department,Lifeguard *,16.47
+Police Department,Pol Sgt-Patrl,53.36
+Human Services,Trng&Ed Coord,33.83
+Seattle Information Technology,Executive2,68.73
+City Light,Meter Reader *,24.22
+City Light,Cooperative Intern *,16.12
+Fire Department,Fireftr-ParamedTechSr-90.46,45.24
+City Light,"Elecl Engr,Assoc",40.88
+City Light,Civil Engr Supv,61.41
+Human Services,Yth Emplmnt Enrollee-Sum *,15.0
+Police Department,Pol Comms Dispatcher I,27.41
+Seattle Dept of Transportation,"Civil Engrng Spec,Sr",48.84
+Seattle Public Utilities,"Util Svc Inspector,Sr",40.55
+Seattle Information Technology,Executive4,85.26
+Fire Department,Fire Capt-90.46 Hrs,52.68
+Police Department,Pol Ofcr-Detective,50.38
+Dept of Finance & Admn Svc,Admin Spec III-BU,27.45
+Legislative-City Council,Legislative Asst,31.91
+City Light,Meter Elctn Working CC,50.54
+Seattle Center,Sound Op *,33.5
+Human Services,Admin Support Asst-BU,22.38
+Fire Department,Fireftr-TRT Dive-90.46 Hrs,40.76
+Dept of Finance & Admn Svc,Info Technol Prof B-BU *,43.99
+Seattle Dept of Const and Insp,"Plng&Dev Spec,Sr",46.8
+Police Department,Pol Ofcr-Patrl,44.95
+City Light,Lnwkr,46.27
+Police Department,Pol Ofcr- Student,35.56
+Human Services,Counslr,29.58
+City Light,"Cust Svc Rep,Sr",27.79
+Police Department,Pol Ofcr-Detective,48.64
+Seattle Center,Usher *,15.68
+Seattle Center,Usher *,15.68
+City Light,"Personnel Spec,Sr",33.83
+Fire Department,Fireftr-90.46 Hrs,31.78
+Human Services,Admin Spec II-BU *,23.63
+City Light,"Real Property Agent,Sr",49.27
+Human Services,Yth Emplmnt Enrollee-Sum *,15.0
+Parks Department,"Events Svc Rep,Sr",39.4
+City Light,Line C CC,52.06
+Seattle Dept of Transportation,"Civil Engrng Spec,Assoc",38.67
+Seattle Center,Laborer *,21.6
+Police Department,Exec Asst,41.77
+Parks Department,Lifeguard *,16.47
+Police Department,Pol Ofcr-Detective,46.91
+Seattle Center,Sound&Video Equip Tech *,33.5
+Fire Department,Fireftr-Ap Drvr-90.46,43.62
+Seattle Public Utilities,"Civil Engrng Spec,Asst III",33.98
+Seattle Dept of Const and Insp,Strucl Plans Engr Supv,59.99
+Fire Department,Personnel Spec,36.58
+Seattle Information Technology,Info Technol Prof A *,62.53
+City Light,Meter Reader *,23.29
+Dept of Finance & Admn Svc,Licenses&Standards Inspector,34.91
+Seattle Dept of Const and Insp,Admin Spec II-BU,26.45
+Human Services,Prjt Fund&Agreemts Coord,37.94
+City Light,Actg Tech II-BU *,24.5
+Parks Department,Rec Leader *,17.52
+Neighborhoods Department,"StratAdvsr1,Exempt",38.56
+Seattle Dept of Transportation,"Accountant,Prin",44.9
+City Light,Actg Tech II-BU,26.45
+Seattle Center,HVAC Tech,37.27
+Police Department,Pol Data Tech *,24.4
+Fire Department,Fire Lieut-90.46 Hrs,46.49
+Seattle Dept of Transportation,"Fin Anlyst,Sr",44.9
+Human Services,"Grants&Contracts Spec,Sr",35.93
+Seattle Center,Stage Tech *,30.42
+Parks Department,"Gardener,Sr",29.58
+Seattle Dept of Transportation,Res&Eval Aide,24.93
+Seattle Dept of Const and Insp,Bldg Plans Examiner,42.35
+Seattle Dept of Transportation,"StratAdvsr2,General Govt",53.35
+Police Department,Pol Ofcr,38.6
+Seattle Public Utilities,"Civil Engr,Asst I *",33.36
+Police Department,Pol Ofcr-Detective,48.64
+Parks Department,Rec Attendant *,15.68
+Human Services,Actg Tech II-BU *,24.5
+Human Services,Prgm Intake Rep,30.21
+Dept of Finance & Admn Svc,"Mgmt Systs Anlyst,Sr",43.38
+City Light,Lnwkr,46.27
+Police Department,Admin Spec III-BU,27.45
+Parks Department,Admin Spec I,24.5
+Police Department,Identification Tech,34.46
+Police Department,Pol Sgt-Detective,57.94
+Fire Department,Fire Battalion Chief-91.4 Hrs,60.43
+Parks Department,Gardener,26.45
+Seattle Dept of Transportation,"Accountant,Sr",39.96
+Fire Department,"Fire Chief,Dep-91.4 Hrs",68.68
+Seattle Public Utilities,Drainage&Wstwtr Coll Wkr CI,29.35
+Police Department,Pol Ofcr-Detective,46.91
+Seattle Dept of Transportation,Arboriculturist,35.93
+Neighborhoods Department,Com Dev Spec,39.4
+Parks Department,Landscape Architect,44.9
+Seattle Center,Stage Tech *,30.42
+City Light,Engrng Aide,29.21
+Parks Department,Rec Leader *,17.52
+Police Department,Pol Ofcr-Patrl,46.68
+Seattle Center,Elctn,40.72
+Dept of Finance & Admn Svc,Complaint Investigator,33.16
+Parks Department,Util Laborer,24.5
+City Light,StratAdvsr2 *,56.9
+Seattle Public Utilities,Drainage&Wstwtr Lead Wkr CII,34.22
+Fire Department,Fireftr-Ap Drvr-90.46,43.62
+Dept of Education & Early Lrng,"Early Ed Spec,Sr",38.61
+City Light,"Warehouser,Sr-BU",28.77
+Parks Department,Laborer,22.95
+City Light,Plng&Dev Spec II,37.94
+Parks Department,Rec Prgm Spec,27.97
+Parks Department,Parks Maint CC,39.13
+Seattle Dept of Transportation,"Transp Plnr,Sr",50.27
+Seattle Public Utilities,Wtr Pipe Wkr Sr-WDM II,36.53
+Seattle Public Utilities,"Exec Asst,Sr",46.8
+Police Department,Pol Ofcr-Motorcycle,48.2
+Seattle Dept of Transportation,Installation Maint Wkr,27.73
+Seattle Public Utilities,Wtr Pipe Wkr Sr-WDM II,36.53
+Police Department,Pol Ofcr-Diver,50.81
+Dept of Finance & Admn Svc,"Investments/Debt Dir,Asst",64.08
+Parks Department,"StratAdvsr2,General Govt",48.45
+Police Department,Pol Ofcr,37.18
+Dept of Finance & Admn Svc,Risk Mgmt Anlyst,39.4
+City Light,"Envrnmtl Anlyst,Sr",46.69
+Seattle Public Utilities,Res&Eval Asst,31.93
+Seattle Public Utilities,Wtr Pipe Wkr Sr-WDM II,36.53
+Seattle Dept of Transportation,"Fin Anlyst,Sr",44.9
+Seattle Center,Util Laborer,24.5
+Seattle Center,Stage Tech *,30.42
+Parks Department,"Architect,Sr",48.44
+Dept of Finance & Admn Svc,Actg Tech II,26.45
+Seattle Dept of Transportation,Truck Drvr,29.94
+Seattle Dept of Transportation,Maint Laborer,25.39
+City Light,Gardener,26.45
+Parks Department,Laborer,22.95
+Fire Department,Fireftr-90.46 Hrs,31.78
+Dept of Finance & Admn Svc,Licenses&Standards Inspector,34.91
+Parks Department,Installation Maint Wkr,27.73
+Police Department,Admin Spec II-BU,26.45
+Seattle Dept of HumanResources,"Personnel Anlyst,Sr",45.87
+Parks Department,Lifeguard *,16.47
+Police Department,Pol Ofcr-Patrl,46.68
+Dept of Finance & Admn Svc,Delivery Wkr,23.18
+Dept of Finance & Admn Svc,Auto Mechanic,33.58
+Seattle Public Utilities,"StratAdvsr2,Utils",58.01
+Seattle Dept of Transportation,"Transp Plnr,Assoc *",38.56
+Seattle Center,Stage Tech *,30.42
+City Light,Elecl Engrng Spec Supv,51.14
+Dept of Finance & Admn Svc,"Accountant,Prin",38.56
+Parks Department,Cashier,18.79
+Seattle Dept of Transportation,Student Engr Intern *,20.35
+Police Department,Pol Ofcr-Patrl,48.86
+Seattle Public Utilities,Drainage&Wstwtr Lead Wkr CII,34.22
+Dept of Finance & Admn Svc,"Sfty&Hlth Spec,Sr",45.87
+Dept of Finance & Admn Svc,"StratAdvsr1,PC&RM",42.64
+Parks Department,Maint Laborer,25.39
+Parks Department,Rec Attendant *,15.68
+Neighborhoods Department,"StratAdvsr2,Exempt",45.96
+Legislative-City Council,StratAdvsr-Legislative,62.04
+Fire Department,Fireftr-Ap Drvr-90.46,39.67
+City Light,"Civil Engrng Spec,Sr",48.84
+Police Department,Pol Ofcr-Patrl,46.68
+Parks Department,Truck Drvr,29.94
+Seattle Dept of Transportation,"Manager2,P&FM",51.29
+Parks Department,Plng&Dev Spec II,39.4
+Seattle Public Utilities,"Manager2,Utils",51.76
+Police Department,Pol Sgt-Patrl,56.19
+Seattle Dept of Transportation,"StratAdvsr2,Engrng&Plans Rev",53.0
+Seattle Public Utilities,Laborer *,22.15
+Seattle Public Utilities,"Mgmt Systs Anlyst,Sr",43.38
+Seattle Dept of Const and Insp,"Bldg Inspector,Journey",40.93
+Legislative-City Council,Legislative Asst,36.82
+Legislative-City Council,Legislative Asst,26.91
+Seattle Dept of Transportation,Bridge Op,29.68
+Construction and Land Use,Student Engr Intern *,21.99
+City Light,"Elecl Engr,Asst III",41.99
+Seattle Dept of Const and Insp,Land Use Plnr I,37.19
+Human Services,"StratAdvsr1,Human Svcs",46.57
+Human Services,Counslr,29.58
+Seattle Center,Parking Attendant *,18.54
+Seattle Public Utilities,"Publc Relations Spec,Sr *",35.16
+Police Department,Pol Recruit,28.21
+Police Department,Pol Ofcr-Patrl,50.16
+Police Department,Pol Ofcr,37.18
+Seattle Public Utilities,Admin Spec II-BU,26.45
+Parks Department,Maint Laborer,25.39
+Parks Department,Lifeguard *,16.47
+Seattle Dept of Transportation,"Mgmt Systs Anlyst,Sr",46.8
+Police Department,Pol Ofcr-Patrl,49.29
+City Light,Elecl Constr&Maint Supv-BU,59.75
+Seattle Dept of Transportation,Bridge Op,29.68
+City Light,"Elecl PwrSystsEngr,Prin-Mrt",65.21
+Seattle Dept of Transportation,"StratAdvsr2,Engrng&Plans Rev",60.59
+Planning and Community Develop,"StratAdvsr2,General Govt",52.8
+Parks Department,Volunteer Prgms Coord,32.55
+Parks Department,Rec Leader *,17.52
+Human Services,"Grants&Contracts Spec,Sr",31.93
+Police Department,Pol Ofcr-Patrl,44.95
+Seattle Dept of Transportation,Admin Spec II-BU *,24.5
+Seattle Public Utilities,"Mgmt Systs Anlyst,Sr",41.77
+City Light,"Capital Prjts Coord,Sr",51.5
+Seattle Dept of Transportation,"Civil Engr,Assoc",40.88
+Dept of Finance & Admn Svc,"Warehouser,Sr-BU",28.77
+Dept of Finance & Admn Svc,"Info Technol Prof A,Exempt",50.07
+City Budget Office,Muni Government Intern *,19.76
+Legislative-City Council,StratAdvsr-Legislative,56.72
+Police Department,Pol Ofcr,38.6
+Police Department,Pol Ofcr,40.54
+Legislative-City Council,Legislative Info Spec II,29.58
+City Light,Meter Reader,26.18
+Seattle Public Utilities,Drainage&Wstwtr Coll Wkr *,27.68
+Police Department,Pol Ofcr-Motorcycle,47.33
+City Light,Elctn-Con-(OI),44.92
+Fire Department,Fireftr-Paramed Tech-90.46 Hrs,47.21
+Fire Department,Fire Lieut-90.46 Hrs,47.21
+Parks Department,Maint Laborer,25.39
+City Light,Executive3,88.56
+City Light,"Manager3,Utils-BU",61.1
+Dept of Finance & Admn Svc,Manager1 *,51.25
+City Light,"Sfty&Hlth Spec,Sr",45.87
+Seattle Center,Actg Tech II-BU,26.45
+Seattle Center,Usher *,15.68
+Parks Department,Maint Laborer,25.39
+City Light,"Capital Prjts Coord,Asst",38.55
+Police Department,Pol Sgt-Patrl,56.19
+Seattle Public Utilities,Util Maint Spec-SPU,34.82
+Parks Department,Actg Tech III-BU,29.09
+Planning and Community Develop,"Publc Relations Spec,Sr",33.83
+Police Department,Pol Lieut,71.16
+Police Department,Pol Ofcr-Detective,48.64
+Parks Department,Work Trng Enrollee *,15.0
+Police Department,Pol Ofcr,43.43
+Police Department,Pol Ofcr-Academy Instructor,47.33
+Police Department,Pol Ofcr-Patrl,44.95
+Seattle Center,"StratAdvsr3,Fin,Bud,&Actg",55.33
+Seattle Dept of Transportation,"Cement Finisher,Sr",32.44
+Parks Department,Cashier *,16.28
+Seattle Dept of Transportation,Student Engr Intern *,20.35
+Seattle Information Technology,"Info Technol Prof A,Exempt",63.45
+Parks Department,Work Trng Enrollee *,15.0
+City Light,Rights-Of-Way Maint Wkr,29.88
+Police Department,Executive2,78.78
+Parks Department,Rec Attendant *,15.68
+Human Services,Mgmt Systs Anlyst Supv,45.87
+Seattle Information Technology,Cooperative Intern *,16.12
+Police Department,"Photographer,Sr",35.6
+Dept of Finance & Admn Svc,StratAdvsr2 *,55.07
+Police Department,Pol Ofcr,37.18
+City Light,Cblspl-Net Area,44.92
+Parks Department,Maint Laborer,25.39
+Seattle Dept of Const and Insp,"Bldg Inspector,Sr(Expert)",44.23
+Police Department,"StratAdvsr2,CL&PS",59.44
+Fire Department,Fireftr-Ap Drvr-90.46,40.39
+Seattle Public Utilities,Wtr Meter Changer,27.45
+Human Services,Yth Emplmnt Enrollee-Sum *,15.0
+Police Department,Executive2,68.02
+Human Services,Counslr,33.16
+Police Department,Pol Recruit,28.21
+Police Department,Pol Lieut,71.16
+Seattle Public Utilities,Drainage&Wstwtr Lead Wkr CII,34.22
+City Light,Elecl Svc Rep,35.81
+Fire Department,Fireftr-Ap Drvr-90.46,42.9
+Seattle Public Utilities,Capital Prjts Coord,46.7
+Police Department,Pol Ofcr-Patrl,44.95
+City Light,Util Laborer,24.5
+Police Department,Pol Comms Dispatcher II,35.66
+Police Department,Pol Ofcr-Patrl,48.86
+Fire Department,Accountant,32.13
+Seattle Public Utilities,Muni Government Intern *,19.76
+Dept of Finance & Admn Svc,"Manager1,Fin,Bud,&Actg",39.45
+Police Department,Executive4,99.55
+Police Department,Pol Ofcr-Patrl,48.86
+Parks Department,Laborer *,21.6
+Parks Department,"Rec Cntr Coord,Asst",32.06
+City Light,"Civil Engrng Spec,Assoc",43.32
+Seattle Public Utilities,Wtr Pipe Wkr,32.76
+Seattle Center,Stage Tech *,30.42
+Seattle Public Utilities,Util Act Rep I,29.65
+Police Department,Pol Ofcr- Student,37.18
+Fire Department,Fire Lieut-90.46 Hrs,47.21
+Human Services,Plng&Dev Spec II,40.93
+Police Department,Pol Sgt-Patrl,57.69
+Dept of Education & Early Lrng,Human Svcs Coord,29.09
+Dept of Finance & Admn Svc,"Accountant,Sr",39.96
+Human Services,"Fin Anlyst,Sr-HSD",39.96
+Parks Department,Lifeguard *,16.47
+Fire Department,Fireftr-ParamedTechSr-90.46,47.03
+Seattle Dept of Transportation,Civil Engr Supv,61.41
+Mayor's Office,Mayoral Staff Asst 1,22.79
+Seattle Public Utilities,Drainage&Wstwtr Lead Wkr CII,32.97
+Police Department,Parking Enf Ofcr,29.89
+Police Department,Pol Ofcr-Patrl,51.03
+City Light,"Elecl Svc Rep,Sr",38.79
+Parks Department,Maint Laborer,25.39
+Fire Department,Fireftr-90.46 Hrs,33.57
+Dept of Finance & Admn Svc,Auto Mechanic,34.93
+Fire Department,Fireftr-90.46 Hrs,40.39
+Human Services,Publc Relations Spec,31.31
+City Light,Enrgy Mgmt Anlyst Supv,55.69
+Fire Department,Fireftr-90.46 Hrs,31.78
+Seattle Public Utilities,Wtr Laboratory Tech *,23.34
+Seattle Center,Stage Tech *,30.42
+City Light,Generation Supv-BU,59.28
+Police Department,Pol Ofcr-Patrl,49.29
+Seattle Center,Usher *,15.68
+Seattle Dept of Const and Insp,Land Use Plnr II,40.77
+Parks Department,Tennis Instructor *,21.49
+Parks Department,"Manager1,Parks&Rec",47.74
+Seattle Public Utilities,"Capital Prjts Coord,Sr",53.43
+Parks Department,"Aquatic Cntr Coord,Asst",32.06
+Fire Department,Fireftr-90.46 Hrs,29.98
+Dept of Finance & Admn Svc,"StratAdvsr1,Fin,Bud,&Actg",48.58
+Seattle Dept of Const and Insp,"Bldg Inspector,Strucl",45.87
+Parks Department,Mgmt Systs Anlyst,39.4
+Seattle Information Technology,Info Technol Prof B-BU *,52.24
+Fire Department,Fireftr-Ap Drvr-90.46,42.9
+Fire Department,Fireftr-Ap Drvr-90.46,42.9
+Police Department,Pol Ofcr-Detective,50.38
+Seattle Public Utilities,"Personnel Spec,Sr",37.94
+Fire Department,Fireftr-FIU Prev Insp I-84 Hrs,48.12
+Parks Department,Personnel Spec,32.55
+Parks Department,Actg Tech II-BU,23.63
+Fire Department,Fire Capt-Prev Inspector I,64.24
+Planning and Community Develop,"Plng&Dev Spec,Sr",46.8
+Planning and Community Develop,"StratAdvsr2,Engrng&Plans Rev",54.86
+Parks Department,Gardener,26.81
+City Light,Strucl Iron Wkr,44.92
+Parks Department,Lifeguard *,16.47
+Seattle Center,Usher *,15.68
+Seattle Public Utilities,Meter Reader,26.18
+Police Department,Pol Ofcr-Detective,47.77
+City Light,"StratAdvsr2,Utils-BU",53.15
+Office of Housing,Property Rehab Supv,41.39
+Parks Department,Metal Fabricator CC,37.53
+City Light,Elctn-Con,44.92
+Seattle Information Technology,Info Technol Prof B-BU,53.63
+Seattle Dept of Transportation,Truck Drvr,29.94
+Parks Department,Cashier,16.78
+Seattle Public Utilities,Drainage&Wstwtr Coll CC,38.22
+Seattle Public Utilities,Util Act Rep Supv I,32.55
+Seattle Information Technology,Info Technol Prof B-BU,44.92
+Seattle Dept of Transportation,"StratAdvsr2,General Govt",51.79
+Dept of Education & Early Lrng,Prgm Intake Rep,30.21
+City Light,"Manager2,Fin,Bud,&Actg-BU",53.39
+Planning and Community Develop,Plng&Dev Spec II,40.93
+City Light,Lnwkr,46.27
+Fire Department,Fireftr-90.46 Hrs,35.36
+Seattle Center,Usher *,15.68
+Legislative,Cooperative Intern-W/S *,16.12
+City Budget Office,"StratAdvsr2,Exempt",47.82
+Parks Department,"Lifeguard,Sr",21.57
+Police Department,Pol Ofcr-Patrl,48.86
+Seattle Public Utilities,"Mgmt Systs Anlyst,Sr",45.11
+Seattle Dept of Const and Insp,Land Use Plnr II,44.05
+Parks Department,Laborer,22.95
+Seattle Dept of Transportation,Actg Tech II-BU,26.45
+City Light,Cblspl-Net Area,44.92
+City Light,Cblspl Aprn,35.49
+Human Services,Counslr,33.16
+Human Services,"Grants&Contracts Spec,Sr",35.93
+City Light,Hydro Maint Wkr I-Gen,27.12
+Seattle Information Technology,Info Technol Prof C-BU,49.05
+Seattle Information Technology,"Info Technol Prof A,Exempt",65.12
+Police Department,Pol Ofcr-Patrl,44.95
+City Light,"Enrgy Mgmt Anlyst,Sr",51.65
+City Light,"Elecl Svc Rep,Supvsng",43.37
+Seattle Center,Laborer,22.95
+Seattle Center,Stage Tech *,30.42
+Police Department,Pol Sgt-Patrl,56.69
+Police Department,Pol Ofcr-Patrl,44.95
+Dept of Finance & Admn Svc,Elctn CC,45.09
+Seattle Center,Stage Tech *,30.42
+Seattle Dept of Transportation,"Personnel Spec,Asst *",24.93
+City Light,"Warehouser,Sr-BU",28.77
+Seattle Dept of Transportation,Parking Pay Stat Tech,32.58
+Human Services,Counslr *,28.51
+Seattle Public Utilities,Wtr Laboratory Tech,26.13
+Police Department,Pol Ofcr-Patrl,44.95
+Police Department,Pol Ofcr- Student,33.16
+Seattle Public Utilities,Drainage&Wstwtr Coll Wkr,29.92
+Parks Department,Rec Attendant,16.57
+Police Department,Pol Sgt-Patrl,58.69
+Human Services,Yth Emplmnt Enrollee-Sum *,15.0
+City Light,Rights-Of-Way Maint Wkr,29.88
+Parks Department,Maint Laborer,25.39
+Seattle Center,Admin Spec III *,25.39
+Seattle Dept of Transportation,"Fin Anlyst,Sr",44.9
+Parks Department,Personnel Spec,35.16
+Seattle Information Technology,"Info Technol Prof A,Exempt",58.16
+Seattle Public Utilities,Civil Engr Supv,61.41
+Seattle Public Utilities,"Wtr Treatment Op,Sr",34.02
+Seattle Dept of Transportation,Executive2,77.35
+Seattle Public Utilities,Civil Engr Supv,61.41
+Police Department,Pol Ofcr-Detective,48.64
+Seattle Center,Executive2,66.27
+Police Department,Pol Ofcr-Patrl,46.68
+Parks Department,Lifeguard *,16.47
+Neighborhoods Department,Com Dev Spec,39.4
+Seattle Dept of Transportation,"Tree Trimmer,Lead",33.15
+Seattle Public Utilities,Cashier *,16.28
+Seattle Public Utilities,"Util Maint Spec,Sr-SPU",36.86
+Neighborhoods Department,Neighb District Coord,40.93
+Seattle Dept of Transportation,"Civil Engrng Spec,Sr",48.84
+City Light,Lnwkr,46.27
+Police Department,StratAdvsr1 *,53.32
+Seattle Public Utilities,Civil Engr Supv,61.41
+Police Department,Pol Ofcr-Patrl,49.29
+City Light,"Elecl PwrSystsEngr,Prin-Mrt",65.21
+Dept of Finance & Admn Svc,Admin Spec II-BU,26.45
+City Employees Retirement Syst,Retirement Spec *,29.09
+Fire Department,Actg Tech II-BU,26.45
+Dept of Finance & Admn Svc,"Mgmt Systs Anlyst,Sr",41.77
+Seattle Information Technology,Telecom Syst Installer,31.52
+Fire Department,Fireftr-90.46 Hrs,37.88
+Seattle Public Utilities,Actg Tech II-BU *,24.5
+Human Services,Counslr,30.78
+Parks Department,Rec Leader,28.14
+Parks Department,"Capital Prjts Coord,Asst",39.96
+Parks Department,"Lifeguard,Sr",21.57
+Seattle Dept of Transportation,Bridge Maint General Supv,40.54
+Police Department,Parking Enf Ofcr,29.89
+Dept of Finance & Admn Svc,"Manager1,General Govt",48.34
+Police Department,Parking Enf Ofcr,29.89
+Parks Department,Parks Maint Aide,15.71
+Fire Department,Fireftr-Ap Drvr-90.46,44.33
+Seattle Public Utilities,"Capital Prjts Coord,Sr",53.43
+Seattle Information Technology,Info Technol Prof B-BU,47.52
+Fire Department,Fire Battalion Chief-91.4 Hrs,60.43
+Seattle Information Technology,Exec Asst,45.11
+Dept of Finance & Admn Svc,Manager1 *,51.25
+Office of Economic Development,"StratAdvsr1,Exempt",38.31
+Parks Department,Maint Laborer,25.39
+Human Services,"Plng&Dev Spec,Sr",41.77
+Seattle Public Utilities,Constr&Maint Equip Op,33.1
+Parks Department,Rec Cntr Coord,35.31
+Seattle Public Utilities,"StratAdvsr3,Exempt",66.28
+Dept of Finance & Admn Svc,"Manager3,Exempt",59.25
+Seattle Dept of Const and Insp,Site Dev Insp,44.23
+Parks Department,Admin Staff Anlyst,36.58
+Human Services,Executive2 *,61.36
+Neighborhoods Department,Actg Tech II-BU,24.5
+Police Department,Pol Comms Anlyst,41.39
+Parks Department,Publc Ed Prgm Spec,33.83
+Seattle Information Technology,"StratAdvsr2,General Govt",58.73
+Police Department,Mgmt Systs Anlyst,36.58
+Seattle Public Utilities,Muni Government Intern *,19.76
+Police Department,Pol Ofcr,37.18
+Seattle Center,Usher *,15.68
+City Light,Enrgy Mgmt Anlyst,48.31
+Office for Civil Rights,Fin Anlyst *,35.01
+Dept of Finance & Admn Svc,Paint&Body Supv,36.26
+Seattle Dept of Transportation,Truck Drvr,29.94
+Fire Department,Fireftr-90.46 Hrs,40.39
+Immigrant & Refugee Affairs,"StratAdvsr1,Exempt",37.04
+Parks Department,"Aquatic Cntr Coord,Asst",28.64
+Police Department,Pol Ofcr,38.6
+Human Services,Counslr,33.16
+Police Department,Pol Ofcr-Detective,46.04
+Planning and Community Develop,Exec Asst,40.16
+Human Services,Yth Emplmnt Enrollee-Sum *,15.0
+Dept of Finance & Admn Svc,Equip Svcr,25.63
+Seattle Public Utilities,"Sfty&Hlth Spec,Sr-BU",45.87
+Seattle Public Utilities,"Mgmt Systs Anlyst,Sr",46.8
+Police Department,"StratAdvsr1,CL&PS",37.04
+Seattle Dept of Const and Insp,"Civil Engr,Sr",48.92
+Seattle Dept of Const and Insp,"Strucl Plans Engr,Sr",56.26
+Parks Department,Rec Attendant *,15.68
+Mayor's Office,"StratAdvsr3,Exempt",60.26
+Parks Department,Rec Attendant *,15.68
+Seattle Information Technology,"Info Technol Prof A,Exempt",60.32
+Human Services,Social Svcs Aide *,20.35
+Seattle Public Utilities,"Civil Engr,Assoc",42.51
+City Light,Util Constr Wkr,28.99
+Police Department,"Fin Anlyst,Sr",41.57
+City Light,Marketing Dev Coord,43.38
+Seattle Public Utilities,Student Engr Intern *,21.03
+Arts and Culture,"Stage Tech,Lead",32.81
+Parks Department,Seattle Conserv Corps Supv,28.77
+Fire Department,Fireftr-Paramed Tech-90.46 Hrs,46.49
+City Light,Hydro Maint Wkr I-Gen,27.12
+Dept of Finance & Admn Svc,Auto Maint CC,40.86
+Police Department,Pol Ofcr- Student,35.56
+Seattle Information Technology,"Info Technol Prof A,Exempt",56.28
+Parks Department,Rec Leader *,17.52
+Parks Department,Util Laborer,24.5
+Parks Department,"Lifeguard,Sr",19.22
+City Light,"Civil Engrng Spec,Assoc",43.32
+Human Services,Fin Anlyst-HSD,37.85
+Dept of Finance & Admn Svc,Manager1 *,50.0
+Human Services,"Human Svcs Prgm Supv,Sr",36.58
+Parks Department,Counslr,33.16
+Police Department,Pol Ofcr,38.6
+Police Department,Identification Tech,34.46
+Seattle Dept of Const and Insp,"Civil Engrng Spec,Sr",45.36
+City Light,Elecl PwrSystsEngr-Mrt,61.88
+City Light,Lnwkr,46.27
+Seattle Center,Events Booking Rep *,30.17
+Seattle Public Utilities,"Constr&Maint Equip Op,Sr",34.75
+Seattle Center,Graphic Arts Designer,32.55
+Seattle Public Utilities,"Civil Engrng Spec,Assoc",41.7
+City Light,"Capital Prjts Coord,Sr",45.82
+Parks Department,Parks Maint Aide,15.71
+Fire Department,Fireftr-90.46 Hrs,40.39
+Seattle Dept of Transportation,Bridge Op,29.68
+Fire Department,Fireftr-Ap Drvr-90.46,43.62
+Parks Department,Lifeguard *,16.47
+City Light,Elec-Con Core CC,50.54
+Legislative-City Council,Legislative Asst,32.93
+Police Department,Pol Ofcr-Detective,47.77
+City Light,"Mat Controller,Sr-BU",33.69
+Seattle Public Utilities,"Manager3,Utils",63.55
+Fire Department,Fireftr-90.46 Hrs,40.39
+City Light,Cust Svc Rep,26.75
+Police Department,Pol Ofcr-Detective,50.38
+Police Department,Pol Ofcr-Patrl,49.29
+Fire Department,Fireftr-90.46 Hrs,33.57
+City Light,"Camp Svc Aide,Sr",21.49
+Seattle Information Technology,Info Technol Prof B-BU,57.67
+City Light,Store Clerk,22.95
+City Light,Pwr Anlyst,45.36
+City Light,"Elecl Engrng Spec,Asst I",32.63
+Parks Department,Lifeguard *,16.47
+Seattle Center,Events Booking Rep,35.16
+Seattle Public Utilities,Wtr Pipe Wkr Sr-WDM II,36.53
+Police Department,Pol Ofcr-Patrl,49.29
+Human Services,Yth Emplmnt Enrollee-Sum *,15.0
+Seattle Center,"Events Svc Rep,Sr",39.4
+Seattle Dept of Transportation,Bridge Op,29.68
+Seattle Center,Stage Tech *,30.42
+City Light,"Warehouser,Sr-BU",28.77
+City Light,"Real Property Agent,Sr",43.94
+Parks Department,Drainage&Wstwtr Coll Lead Wkr,33.56
+Fire Department,Fire Lieut-90.46 Hrs,47.21
+Seattle Public Utilities,"Civil Engr,Sr",56.96
+Seattle Dept of Const and Insp,Bldg Plans Examiner,37.85
+Dept of Finance & Admn Svc,Animal Contrl Ofcr Supv,30.78
+Fire Department,Fireftr-80 Hrs,43.64
+Police Department,Pol Ofcr,43.43
+City Light,Pwr Marketer-BU,40.54
+Parks Department,Rec Cntr Coord,35.31
+Parks Department,Work Trng Enrollee *,15.0
+City Light,Maint Laborer,25.39
+Seattle Public Utilities,"Gardener,Sr",29.58
+Police Department,Pol Comms Dispatcher I,30.65
+Parks Department,Maint Laborer,25.39
+Seattle Center,Stage Tech *,30.42
+Police Department,Pol Ofcr-Patrl,48.86
+City Light,Cust Svc Rep,24.86
+Seattle Dept of Transportation,Constr&Maint Equip Op,33.1
+Seattle Public Utilities,Transmission CC-WDM II,42.1
+Fire Department,Fireftr-Ap Drvr-90.46,39.67
+Fire Department,"Fire Chief,Dep-80 Hrs",78.48
+Police Department,Parking Enf Ofcr,29.89
+Police Department,Pol Sgt-Detective,54.95
+Seattle Public Utilities,Actg Tech III-BU,29.09
+City Light,Lnwkr,46.27
+Seattle Public Utilities,Opns Response Cntr Op,32.55
+Human Services,"Prjt Fund&Agreemts Coord,Sr",43.38
+Seattle Public Utilities,"Sfty&Hlth Spec,Sr-BU",45.87
+Seattle Dept of Transportation,Sfty&Hlth Supv,47.66
+Seattle Dept of Transportation,"Civil Engrng Spec,Assoc",43.32
+Police Department,Pol Capt - Violent Crime,85.44
+City Budget Office,"StratAdvsr2,Exempt",47.82
+Parks Department,Work Trng Enrollee *,15.0
+Parks Department,Pntr,32.88
+Seattle Dept of Transportation,"StratAdvsr2,CSPI&P",54.04
+Seattle Public Utilities,"Fin Anlyst,Sr",44.9
+Seattle Public Utilities,"StratAdvsr1,General Govt",51.19
+Fire Department,Fireftr-Ap Drvr-90.46,43.62
+Seattle Public Utilities,"Civil Engrng Spec,Sr",48.84
+Police Department,Pol Ofcr-Patrl,44.95
+City Light,Strucl Pntr,34.02
+Parks Department,Rec Attendant *,15.68
+Seattle Information Technology,Info Technol Prof B-BU,56.87
+Human Services,"Grants&Contracts Spec,Sr",35.93
+Dept of Finance & Admn Svc,Metal Fabricator,35.33
+Seattle Public Utilities,Util Act Rep I,29.65
+Police Department,Pol Ofcr-Patrl,44.95
+City Light,"Elecl Engrng Spec,Sr",48.84
+Dept of Finance & Admn Svc,Maint Laborer *,25.39
+Police Department,Pol Ofcr-Hostage Neg-Patrl,49.51
+Seattle Center,Stage Tech *,30.42
+City Light,Pwr Marketer-BU,45.0
+Fire Department,Fireftr-Prev Insp I-80 Hrs,50.34
+Police Department,Pol Data Tech,27.2
+Dept of Finance & Admn Svc,"StratAdvsr2,General Govt",50.54
+Seattle Information Technology,"StratAdvsr1,CSPI&P",43.16
+Dept of Finance & Admn Svc,"Cust Svc Rep,Sr",27.79
+City Light,Comms Elctn II,45.77
+Police Department,Pol Ofcr-Patrl,51.03
+Fire Department,Fireftr-Ap Drvr-90.46,43.62
+Seattle Center,Parking Attendant,21.57
+Seattle Dept of Transportation,Student Engr Intern *,20.35
+Fire Department,Fire Lieut-90.46 Hrs,43.98
+Parks Department,Work Trng Enrollee *,15.0
+Fire Department,Fireftr-90.46 Hrs,33.57
+Seattle Public Utilities,"Manager2,Utils",51.76
+Dept of Finance & Admn Svc,Auto Mechanic,34.93
+Seattle Information Technology,Info Technol Prof C-BU,43.47
+Fire Department,Fireftr-Decon-90.46 Hrs,42.9
+Seattle Public Utilities,Drainage&Wstwtr Coll Wkr CI,30.49
+Dept of Finance & Admn Svc,"StratAdvsr2,Exempt",54.33
+Parks Department,"Capital Prjts Coord,Sr *",45.82
+City Budget Office,"StratAdvsr2,Exempt",53.64
+Seattle Center,Usher *,15.68
+City Light,Muni Government Intern *,19.76
+Construction and Land Use,Cooperative Intern *,16.12
+Seattle Dept of Transportation,"Civil Engr,Sr",56.96
+Seattle Public Utilities,Constr&Maint Equip Op,33.1
+Seattle Public Utilities,Gardener *,25.39
+Dept of Finance & Admn Svc,Janitor-FAS/CL,21.03
+Police Department,Parking Enf Ofcr Supv,35.01
+Parks Department,Gardener *,24.5
+Parks Department,Maint Laborer,25.39
+Seattle Dept of Const and Insp,Housing/Zoning Inspector,38.56
+City Light,Jrnywkr In Chg,48.74
+Police Department,Pol Ofcr-Patrl,50.16
+Human Services,Yth Emplmnt Enrollee-Sum *,15.0
+Seattle Dept of Const and Insp,"StratAdvsr2,CSPI&P",56.28
+Police Department,Parking Enf Ofcr,29.89
+Seattle Public Utilities,Admin Spec I-BU,24.5
+Fire Department,Fire Lieut-90.46 Hrs,46.49
+Fire Department,Fireftr-HM-90.46 Hrs,42.18
+Seattle Center,Parking Attendant *,18.54
+Parks Department,Admin Staff Anlyst,37.94
+Police Department,Latent Print Examiner,35.16
+Seattle Information Technology,Info Technol Prof B-BU,50.52
+Dept of Finance & Admn Svc,Carpenter,32.88
+Seattle Public Utilities,Util Act Rep Supv II,39.4
+Seattle Information Technology,Info Technol Prof B-BU,49.73
+Seattle Center,"Stage Tech,Lead",32.81
+Seattle Information Technology,Info Technol Prof B-BU,50.48
+Parks Department,Rec Attendant,15.96
+City Budget Office,Executive2,71.5
+Police Department,Pol Ofcr-Patrl,49.29
+City Light,"Capital Prjts Coord,Sr",45.82
+Seattle Dept of Transportation,"Manager1,Engrng&Plans Rev",53.44
+Seattle Public Utilities,"Civil Engr,Sr",56.96
+Parks Department,Maint Laborer,25.39
+City Light,Line CC-Asg C Coord,52.06
+Seattle Dept of Transportation,"Civil Engrng Spec,Sr",48.84
+Seattle Dept of Transportation,"Transp Plnr,Assoc",44.9
+Police Department,Pol Ofcr-SWAT,49.51
+Fire Department,Fire Capt-90.46 Hrs,52.68
+Seattle Dept of Transportation,Civil Engr Supv,61.41
+Seattle Public Utilities,"Wtr Treatment Op,Sr",34.02
+City Light,"StratAdvsr2,Utils-BU",50.0
+Seattle Information Technology,Info Technol Prof B-BU,47.9
+Parks Department,"Manager2,General Govt",49.59
+City Light,Civil Engrng Spec Supv,51.14
+Police Department,Pol Ofcr-Patrl,46.68
+Fire Department,Fire Lieut-80 Hrs,52.57
+Seattle Dept of Const and Insp,Permit Spec I,35.16
+City Light,Cust Svc Rep,26.75
+Fire Department,Fireftr-90.46 Hrs,37.88
+City Light,Elctn-Con Aprn,34.59
+City Light,"StratAdvsr1,Fin,Bud,&Actg-BU",48.43
+Dept of Finance & Admn Svc,"Fin Anlyst,Sr",44.9
+Seattle Public Utilities,"StratAdvsr1,CSPI&P",52.56
+Fire Department,Fire Capt-90.46 Hrs,54.11
